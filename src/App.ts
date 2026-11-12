@@ -1,5 +1,8 @@
 // Utility Functions
-import fetchCookies from './Scripts/CookiePuller';
+// Add utility function imports here.
+
+// Types
+import type { Cookie } from "playwright";
 
 // Assets
 import AuburnLogo from './Assets/AuburnLogo.svg';
@@ -51,22 +54,21 @@ const secondButton: HTMLFormElement = document.querySelector<HTMLFormElement>('#
 const thirdButton: HTMLFormElement = document.querySelector<HTMLFormElement>('#third_site_button')!;
 
 // Adds an event listener to the first button.
-firstButton.addEventListener('click', () => clickSiteButton("www.google.com"));
+firstButton.addEventListener('click', () => displaySiteCookieData("www.google.com"));
 
 // Adds an event listener to the second button.
-secondButton.addEventListener('click', () => clickSiteButton("www.facebook.com"));
+secondButton.addEventListener('click', () => displaySiteCookieData("www.facebook.com"));
 
 // Adds an event listener to the third button.
-thirdButton.addEventListener('click', () => clickSiteButton("www.twitter.com"));
+thirdButton.addEventListener('click', () => displaySiteCookieData("www.twitter.com"));
 
 
 // -- Helper Functions --
 
 /**
-   * Executes functionality when a site button is clicked, such as kicking off cookie collection and displaying results.
+   * Displays the cookie data for a given site URL.
    * @param _siteURL - The site URL to visit.
    */
-const clickSiteButton = (_siteURL: string): void => {
-    // Fetches the cookies from the specified site URL.
-    const cookiesForSite: string = fetchCookies(_siteURL);
+const displaySiteCookieData = async (_siteURL: string): Promise<void> => {
+    // Add stuff here.
 }

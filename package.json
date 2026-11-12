@@ -6,10 +6,19 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "collect-cookies": "tsx scripts/CollectCookies.ts"
   },
   "devDependencies": {
+    "playwright": "^1.65.0",
+    "tsx": "^4.23.15",
     "typescript": "~7.0.2",
     "vite": "^8.3.6"
+  },
+  "allowScripts": {
+    "esbuild@0.28.2": true
+  },
+  "dependencies": {
+    "tldts": "^7.4.26"
   }
 }
