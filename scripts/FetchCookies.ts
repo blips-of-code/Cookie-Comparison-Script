@@ -1,5 +1,5 @@
 // Utilities
-import { chromium } from "playwright";
+import { chromium, firefox } from "playwright";
 
 // Types
 import type { Cookie, Browser, BrowserContext } from "playwright";
@@ -14,7 +14,7 @@ import type { CookieInfo } from "./Types";
    * @returns A Promise containing an array of CookieInfo objects.   
 */
 export default async function fetchCookies(_siteURL: string): Promise<CookieInfo[]> {
-    // Launches a new Chromium browser.
+    // Launches a new Firefox browser.
     const browser: Browser = await chromium.launch({
         headless: true
     });

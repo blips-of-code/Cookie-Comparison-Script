@@ -1,15 +1,15 @@
 [
   {
     "website": "https://www.google.com",
-    "collectedAt": "2026-11-12T16:26:13.349Z",
+    "collectedAt": "2026-11-12T21:01:58.616Z",
     "cookies": [
       {
-        "name": "__Secure-STRP",
+        "name": "SEARCH_SAMESITE",
         "domain": ".google.com",
         "path": "/",
-        "expires": 1794501069.908713,
+        "expires": 1810069313.973,
         "httpOnly": false,
-        "secure": true,
+        "secure": false,
         "sameSite": "Strict",
         "isThirdParty": false
       },
@@ -17,7 +17,7 @@
         "name": "AEC",
         "domain": ".google.com",
         "path": "/",
-        "expires": 1810052769.908981,
+        "expires": 1810069313.973,
         "httpOnly": true,
         "secure": true,
         "sameSite": "Lax",
@@ -27,36 +27,46 @@
         "name": "NID",
         "domain": ".google.com",
         "path": "/",
-        "expires": 1810311970.593914,
+        "expires": 1810328513.655,
         "httpOnly": true,
-        "secure": false,
-        "sameSite": "Lax",
+        "secure": true,
+        "sameSite": "None",
+        "isThirdParty": false
+      },
+      {
+        "name": "__Secure-STRP",
+        "domain": ".google.com",
+        "path": "/",
+        "expires": 1794517615.785,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Strict",
         "isThirdParty": false
       }
     ]
   },
   {
     "website": "https://www.wikipedia.org",
-    "collectedAt": "2026-11-12T16:26:17.399Z",
+    "collectedAt": "2026-11-12T21:02:06.486Z",
     "cookies": [
       {
         "name": "WMF-Last-Access",
         "domain": "www.wikipedia.org",
         "path": "/",
-        "expires": 1797285743.786123,
+        "expires": 1797300727.81,
         "httpOnly": true,
         "secure": true,
-        "sameSite": "Lax",
+        "sameSite": "None",
         "isThirdParty": false
       },
       {
         "name": "WMF-Last-Access-Global",
         "domain": ".wikipedia.org",
         "path": "/",
-        "expires": 1797285743.786449,
+        "expires": 1797300727.81,
         "httpOnly": true,
         "secure": true,
-        "sameSite": "Lax",
+        "sameSite": "None",
         "isThirdParty": false
       },
       {
@@ -66,14 +76,14 @@
         "expires": -1,
         "httpOnly": false,
         "secure": true,
-        "sameSite": "Lax",
+        "sameSite": "None",
         "isThirdParty": false
       },
       {
         "name": "NetworkProbeLimit",
         "domain": "www.wikipedia.org",
         "path": "/",
-        "expires": 1794504373.786627,
+        "expires": 1794520920.81,
         "httpOnly": false,
         "secure": true,
         "sameSite": "None",
@@ -83,7 +93,7 @@
         "name": "WMF-Uniq",
         "domain": ".wikipedia.org",
         "path": "/",
-        "expires": 1826014140.910468,
+        "expires": 1826026382.18,
         "httpOnly": true,
         "secure": true,
         "sameSite": "None",
@@ -93,26 +103,26 @@
   },
   {
     "website": "https://www.mozilla.org",
-    "collectedAt": "2026-11-12T16:26:21.177Z",
+    "collectedAt": "2026-11-12T21:02:13.349Z",
     "cookies": [
       {
         "name": "_ga_MQ7767QQQW",
         "domain": ".mozilla.org",
         "path": "/",
-        "expires": 1829060778.533944,
+        "expires": 1829077330.678,
         "httpOnly": false,
         "secure": false,
-        "sameSite": "Lax",
+        "sameSite": "None",
         "isThirdParty": false
       },
       {
         "name": "_ga",
         "domain": ".mozilla.org",
         "path": "/",
-        "expires": 1829060778.534667,
+        "expires": 1829077330.68,
         "httpOnly": false,
         "secure": false,
-        "sameSite": "Lax",
+        "sameSite": "None",
         "isThirdParty": false
       }
     ]
