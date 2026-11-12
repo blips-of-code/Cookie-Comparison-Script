@@ -1,0 +1,120 @@
+[
+  {
+    "website": "https://www.google.com",
+    "collectedAt": "2026-11-12T16:26:13.349Z",
+    "cookies": [
+      {
+        "name": "__Secure-STRP",
+        "domain": ".google.com",
+        "path": "/",
+        "expires": 1794501069.908713,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Strict",
+        "isThirdParty": false
+      },
+      {
+        "name": "AEC",
+        "domain": ".google.com",
+        "path": "/",
+        "expires": 1810052769.908981,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "Lax",
+        "isThirdParty": false
+      },
+      {
+        "name": "NID",
+        "domain": ".google.com",
+        "path": "/",
+        "expires": 1810311970.593914,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "Lax",
+        "isThirdParty": false
+      }
+    ]
+  },
+  {
+    "website": "https://www.wikipedia.org",
+    "collectedAt": "2026-11-12T16:26:17.399Z",
+    "cookies": [
+      {
+        "name": "WMF-Last-Access",
+        "domain": "www.wikipedia.org",
+        "path": "/",
+        "expires": 1797285743.786123,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "Lax",
+        "isThirdParty": false
+      },
+      {
+        "name": "WMF-Last-Access-Global",
+        "domain": ".wikipedia.org",
+        "path": "/",
+        "expires": 1797285743.786449,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "Lax",
+        "isThirdParty": false
+      },
+      {
+        "name": "GeoIP",
+        "domain": ".wikipedia.org",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax",
+        "isThirdParty": false
+      },
+      {
+        "name": "NetworkProbeLimit",
+        "domain": "www.wikipedia.org",
+        "path": "/",
+        "expires": 1794504373.786627,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "isThirdParty": false
+      },
+      {
+        "name": "WMF-Uniq",
+        "domain": ".wikipedia.org",
+        "path": "/",
+        "expires": 1826014140.910468,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None",
+        "isThirdParty": false
+      }
+    ]
+  },
+  {
+    "website": "https://www.mozilla.org",
+    "collectedAt": "2026-11-12T16:26:21.177Z",
+    "cookies": [
+      {
+        "name": "_ga_MQ7767QQQW",
+        "domain": ".mozilla.org",
+        "path": "/",
+        "expires": 1829060778.533944,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax",
+        "isThirdParty": false
+      },
+      {
+        "name": "_ga",
+        "domain": ".mozilla.org",
+        "path": "/",
+        "expires": 1829060778.534667,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax",
+        "isThirdParty": false
+      }
+    ]
+  }
+]
