@@ -1,33 +1,33 @@
 [
   {
     "website": "https://www.google.com",
-    "collectedAt": "2026-11-12T16:26:13.349Z",
+    "collectedAt": "2026-11-12T22:02:48.084Z",
     "cookies": [
-      {
-        "name": "__Secure-STRP",
-        "domain": ".google.com",
-        "path": "/",
-        "expires": 1794501069.908713,
-        "httpOnly": false,
-        "secure": true,
-        "sameSite": "Strict",
-        "isThirdParty": false
-      },
       {
         "name": "AEC",
         "domain": ".google.com",
         "path": "/",
-        "expires": 1810052769.908981,
+        "expires": 1810072963.738287,
         "httpOnly": true,
         "secure": true,
         "sameSite": "Lax",
         "isThirdParty": false
       },
       {
+        "name": "__Secure-STRP",
+        "domain": ".google.com",
+        "path": "/",
+        "expires": 1794521264.385697,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Strict",
+        "isThirdParty": false
+      },
+      {
         "name": "NID",
         "domain": ".google.com",
         "path": "/",
-        "expires": 1810311970.593914,
+        "expires": 1810332163.385823,
         "httpOnly": true,
         "secure": false,
         "sameSite": "Lax",
@@ -37,13 +37,13 @@
   },
   {
     "website": "https://www.wikipedia.org",
-    "collectedAt": "2026-11-12T16:26:17.399Z",
+    "collectedAt": "2026-11-12T22:02:52.726Z",
     "cookies": [
       {
         "name": "WMF-Last-Access",
         "domain": "www.wikipedia.org",
         "path": "/",
-        "expires": 1797285743.786123,
+        "expires": 1797305811.749049,
         "httpOnly": true,
         "secure": true,
         "sameSite": "Lax",
@@ -53,7 +53,7 @@
         "name": "WMF-Last-Access-Global",
         "domain": ".wikipedia.org",
         "path": "/",
-        "expires": 1797285743.786449,
+        "expires": 1797305811.749469,
         "httpOnly": true,
         "secure": true,
         "sameSite": "Lax",
@@ -73,7 +73,7 @@
         "name": "NetworkProbeLimit",
         "domain": "www.wikipedia.org",
         "path": "/",
-        "expires": 1794504373.786627,
+        "expires": 1794524568.749602,
         "httpOnly": false,
         "secure": true,
         "sameSite": "None",
@@ -83,7 +83,7 @@
         "name": "WMF-Uniq",
         "domain": ".wikipedia.org",
         "path": "/",
-        "expires": 1826014140.910468,
+        "expires": 1826032206.812023,
         "httpOnly": true,
         "secure": true,
         "sameSite": "None",
@@ -93,13 +93,13 @@
   },
   {
     "website": "https://www.mozilla.org",
-    "collectedAt": "2026-11-12T16:26:21.177Z",
+    "collectedAt": "2026-11-12T22:02:59.000Z",
     "cookies": [
       {
         "name": "_ga_MQ7767QQQW",
         "domain": ".mozilla.org",
         "path": "/",
-        "expires": 1829060778.533944,
+        "expires": 1829080975.091369,
         "httpOnly": false,
         "secure": false,
         "sameSite": "Lax",
@@ -109,10 +109,156 @@
         "name": "_ga",
         "domain": ".mozilla.org",
         "path": "/",
-        "expires": 1829060778.534667,
+        "expires": 1829080975.091947,
         "httpOnly": false,
         "secure": false,
         "sameSite": "Lax",
+        "isThirdParty": false
+      }
+    ]
+  },
+  {
+    "website": "https://edition.cnn.com/2026/11/12/sport/what-to-know-for-nfl-week-10",
+    "collectedAt": "2026-11-12T22:03:06.168Z",
+    "cookies": [
+      {
+        "name": "wbdFch",
+        "domain": ".edition.cnn.com",
+        "path": "/2026/11/12/sport/what-to-know-for-nfl-week-10",
+        "expires": 1794521009.714144,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "isThirdParty": false
+      },
+      {
+        "name": "SecGpc",
+        "domain": ".cnn.com",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "isThirdParty": false
+      },
+      {
+        "name": "countryCode",
+        "domain": ".cnn.com",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "isThirdParty": false
+      },
+      {
+        "name": "stateCode",
+        "domain": ".cnn.com",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "isThirdParty": false
+      },
+      {
+        "name": "FastAB",
+        "domain": ".cnn.com",
+        "path": "/",
+        "expires": 1826056979.71419,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None",
+        "isThirdParty": false
+      },
+      {
+        "name": "usprivacy",
+        "domain": ".cnn.com",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "isThirdParty": false
+      },
+      {
+        "name": "geoData",
+        "domain": ".cnn.com",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "isThirdParty": false
+      },
+      {
+        "name": "OptanonControl",
+        "domain": ".cnn.com",
+        "path": "/",
+        "expires": 1826056980,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "isThirdParty": false
+      },
+      {
+        "name": "OptanonConsent",
+        "domain": ".cnn.com",
+        "path": "/",
+        "expires": 1826056980,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "isThirdParty": false
+      },
+      {
+        "name": "g_state",
+        "domain": "edition.cnn.com",
+        "path": "/",
+        "expires": 1810072981,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax",
+        "isThirdParty": false
+      },
+      {
+        "name": "_OT_sm",
+        "domain": "edition.cnn.com",
+        "path": "/",
+        "expires": 1794607381,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax",
+        "isThirdParty": false
+      },
+      {
+        "name": "m",
+        "domain": "m.stripe.com",
+        "path": "/",
+        "expires": 1829080982.512618,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None",
+        "isThirdParty": false
+      },
+      {
+        "name": "__stripe_mid",
+        "domain": ".edition.cnn.com",
+        "path": "/",
+        "expires": 1826056982,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Strict",
+        "isThirdParty": false
+      },
+      {
+        "name": "__stripe_sid",
+        "domain": ".edition.cnn.com",
+        "path": "/",
+        "expires": 1794522782,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Strict",
         "isThirdParty": false
       }
     ]

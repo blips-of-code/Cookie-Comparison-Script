@@ -15,7 +15,8 @@ import type { CookieInfo, WebsiteResult } from "./Types";
 const WEBSITES: string[] = [
     "https://www.google.com",
     "https://www.wikipedia.org",
-    "https://www.mozilla.org"
+    "https://www.mozilla.org",
+    "https://edition.cnn.com/2026/11/12/sport/what-to-know-for-nfl-week-10"
 ];
 
 

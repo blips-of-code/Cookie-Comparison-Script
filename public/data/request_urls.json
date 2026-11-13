@@ -1,0 +1,554 @@
+[
+  {
+    "website": "https://www.google.com",
+    "collectedAt": "2026-11-13T02:21:08.968Z",
+    "urls": [
+      {
+        "url": "https://www.google.com/",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/xjs/_/ss/k=xjs.hd.3QvS0bWOozw.L.W.O/am=AAAEAAAACAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAABEEAAAAAAAAAAQAQNYgAAAIAAAAAABAOAAAACgIAAAAAAAgAAABAAAAAAAAACACABAAAAAAAAAAAAAAAAAIAAAAAAAAACAAAAAAAQAAIAAUAAAigAAAAAAAAAAACAAAAAAAAIMAAECAAAAAAAAAAAAAAAIABAAAAAAAAAAAAgAAQGAAEAAAABAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIBJABAAABAAAAAAAEAAAAAAARABCCAIAAhQQsCAQAAAAAAAAAAALAAAAAAAKIQAAEAAAAAAABAAAAAAAABACAQAgAAAAAAAAEACAACCAAMAIFACSngARAAACAQAAAgAEAgAAAIAAAAAAAAAgAAAAgAgAAAAAAAAAAAAAAAgADCAAAAAAAAAAAAAAAIABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU/d=1/ed=1/rs=ACT90oHKazDCUSk_xoDxnVLBLTpSEbVEIg/m=cdos,cr,hsm,jsa,mb4ZUb,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl,YV5bee,d,csi?cb=121509378",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/xjs/_/js/k=xjs.hd.en.ZTlPmEZX14A.2023.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAIAAAAAABAAAAAAAAAAAAAAAIAAEAAAAAAAAAAAAAAAAAAAAAACBACACABAAAAAAAAAAAAAAAAAIQAABAAAAAAAAADAAAQAAIAAUAAGAgAAAAAAAAAAAAAAAAAAAAIAAEEAAAQAAAAAAAwD8AAEABAAAAAAAAAAAAAAgBAAAAAAAAAMACAAAAQCAAAACAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAABQAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAgAAAAKAAAEAAAIAAAAAAAAAAAAAAAAACAAQAAAAAAAgAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAQAAAAAAAAAAgAAAAAAcgMADDKkpAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACIAAdiEVBIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEnrIY/d=1/ed=1/dg=4/rs=ACT90oF-qsiwhYzYJLGqrbORZxIHShkC1A/ee=ALeJib:B8gLwd;AfeaP:TkrAjf;BMxAGc:E5bFse;BgS6mb:fidj5d;BjwMce:cXX2Wb;BuJtU:v6yjN;CIZTGb:Kqhykb;CxXAWb:YyRLvc;D0uLQb:UrRsXe;DQEued:Fevhcf;DULqB:RKfG5c;Dkk6ge:JZmW9e;DpcR3d:zL72xf;EABSZ:MXZt9d;ESrPQc:mNTJvc;EVNhjf:pw70Gc;EjXHpb:pSHqh;EmZ2Bf:zr1jrb;EnlcNd:WeHg4;F54IAe:ZgsFh;F9mqte:UoRcbe;FSxmUe:fiZR8b;Fkukfc:i8H2c;Fmv9Nc:O1Tzwc;G0KhTb:LIaoZ;GleZL:J1A7Od;HMDDWe:G8QUdb;HtPxrd:Gx8jAb;IBADCc:RYquRb;ImvEf:IBTA4e;IsdWVc:qzxzOb;JXJSm:ii1RGf;JXS8fb:Qj0suc;JqSq7d:y9ePhe;JsbNhc:Xd8iUd;K08hxe:zmbGlf;K5nYTd:ZDZcre;KA3P2:C3JnCe;KDb6nb:fE9n2;KOxcK:OZqGte;KQzWid:ZMKkN;KdIHef:BWtNj;KpRAue:Tia57b;LBgRLc:SdcwHb,XVMNvd;LBn8Cf:bJ9L0c;LEikZe:byfTOb,lsjVmc;LXA8b:q7OdKd;LsNahb:ucGLNb;MNkAde:KMCd1d;NJ1rfe:qTnoBf;NPKaK:SdcwHb;NSEoX:lazG7b;NjIwef:YVgi7d;Np8Qkd:Dpx6qc;Nyt6ic:jn2sGd;O53Aqe:sQbkGd;OIfWUb:qfOYcd;OiqE2c:TFpEK;OoK5v:Sp69O;OohIYe:mpEAQb;Pjplud:PoEs9b;PpTLXd:pJYjx;Q1Ow7b:x5CSu;Q7iJ9c:bVLZ3d;QE20Be:gIltO;QFOGlf:PQ2Aoe;QGR0gd:Mlhmy;QYLF2b:pAQYUd;Qk7yid:BbYS0d;Qw8Feb:jpavUe;R4IIIb:QWfeKf;R9Ulx:CR7Ufe;RCF5Sd:X1kBmd;RZKicf:PQXVv;Raf5me:mgvFMc;SFghJd:YRZpK;SLtqO:Kh1xYe;SNUn3:ZwDk9d,xD8Kp;SNk4Je:wWMhg;ScI3Yc:e7Hzgb,e7Hzgb;ShpF6e:N0pvGc;Snahre:mGCtob;SzQQ3e:dNhofb;TIUVQd:lWTJwd;TroZ1d:vVVzjb;U96pRd:FsR04;UBKJZ:LGDJGb;UDrY1c:N0F29d,W50NVd,eps46d,wciyUe;UVmjEd:EesRsb;UVzb9c:IvPZ6d;UYRIEb:HzTAQc;UyG7Kb:wQd0G;V2HTTe:RolTY;VGRfx:VFqbr;VMuEm:pL7sBc;VN6jIc:ddQyuf;VOcgDe:YquhTb;VZN6W:CniFLb;VhA7bd:vAmQFf;VsAqSb:PGf2Re;W9QSQe:ynCWwc;WDGyFe:jcVOxd;WXtNeb:QU9BMd;Wfmdue:g3MJlb;Wl55ib:vgbiKb;Y3c5sd:FGbfLe;YIZmRd:A1yn5d;YV5bee:IvPZ6d;YnHUBf:sNsSob;ZSH6tc:QAvyLe;ZlOOMb:P0I0Ec;a56pNe:JEfCwb;aAJE9c:WHW6Ef;aCJ9tf:qKftvc;aVZq3e:EMeVIb;aZ61od:arTwJ;aci7y:Z5Tr6c;bUIkwb:WMwEHe;bcPXSc:gSZLJb;cEt90b:ws9Tlc;cFTWae:gT8qnd;dIoSBb:ZgGg9b;dLlj2:Qqt3Gf;dXdZV:a7QTqd;dowIGb:ebZ3mb,ebZ3mb;dtl0hd:lLQWFe;eBAeSb:Ck63tb;eBZ5Nd:audvde;eHDfl:HQyHcc,ofjVkb;eJKchc:ATg1be;eO3lse:UefOmb;euOXY:OZjbQ;g8nkx:U4MzKc;gTtPhb:RvPnwb;gaub4:TN6bMe;gbfHR:qZtzib;gtVSi:ekUOYd;h3MYod:ws9Tlc;hK67qb:QWEO5b;hVic1b:Kqhykb;heHB1:sFczq;hjRo6e:F62sG;hlqGX:FWz1ic;hsLsYc:Vl118;hwoVHd:zw4U8c;iFQyKf:QIhFr;jJj2G:kF2o2b;k1O0rf:pnOULd;k2Qxcb:XY51pe;kbAm9d:MkHyGd;lOO0Vd:OTA3Ae;lbfkyf:MqGdUd;liAz7d:kF2o2b;mMVOGb:qDM7K;mWzs9c:fz5ukf;mtKMCc:ZG5Tfe;nBZnZe:CvErjb;nE6OJf:Fi4rsc;nEBWNb:MxKX9d;nJw4Gd:dPFZH;nrDcw:SuEoDe;oGtAuc:sOXFj;oUlnpc:RagDlc;oiBhre:OuMkRd;okUaUd:wItadb;osNlFe:eRJvTc;pKJiXd:VCenhc;pNsl2d:j9Yuyc;pXdRYb:JKoKVe;pj82le:ww04Df;qGV2uc:HHi04c;qQEoOc:KUM7Z,d7YSfd;qZx2Fc:j0xrE;qaS3gd:yiLg6e;qafBPd:sgY6Zb;qavrXe:I0C9u;qddgKe:d7YSfd,x4FYXe;rdexKf:FEkKD;rmWaj:PMS6Sd;ropkZ:hjoqoe;sTsDMc:H8cOfd,JksfDf,VF9yLb,xkjGve;sZmdvc:rdGEfc;tH4IIe:Ymry6;teSRSb:BMLai;tosKvd:ZCqP3;trZL0b:qY8PFe;uJfyCe:WJ5gBc;uuQkY:u2V3ud;vEYCNb:FaqsVd;vRlMvf:Iw9Xo;vfVwPd:lcrkwe;w3bZCb:ZPGaIb;w9w86d:XwhUEb,dt4g2b,gKD90c,lWVZVe;wFpbG:JbGbBc;wQlYve:aLUfP;wR5FRb:O1Gjze,TtcOte;wV5Pjc:L8KGxe;wxAT5b:tHKmqf;x9N9ie:KH4Qof;xBbsrc:NEW1Qc;xpaRob:AVqZ9b;yiL5Ab:MT0ZBd;ysNiMc:CpIBjd;yxTchf:KUM7Z;z97YGf:oug9te;zaIgPb:Sl0pxd/m=cdos,cr,hsm,jsa,mb4ZUb,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl,YV5bee,d,csi?cb=121509378",
+        "thirdparty": false
+      },
+      {
+        "url": "https://csp.withgoogle.com/csp/gws/other-hp",
+        "thirdparty": true
+      },
+      {
+        "url": "https://www.gstatic.com/og/_/js/k=og.asy.en_US.oMuyDsAN2vk.2019.O/rt=j/m=_ac,_awd,ada,lldp,qads,abld/exm=/d=1/ed=1/rs=AA2YrTsgGLae7Fpk8fllqH59JelpSa2PJw",
+        "thirdparty": true
+      },
+      {
+        "url": "https://www.google.com/async/hpba?yv=3&cs=0&ei=EXT2atG7NLuIwbkPwezK2Qo&async=_basejs:/xjs/_/js/k%3Dxjs.hd.en.ZTlPmEZX14A.2023.O/am%3DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAIAAAAAABAAAAAAAAAAAAAAAIAAEAAAAAAAAAAAAAAAAAAAAAACBAAACABAAAAAAAAAAAAAAAAAIQAABAAAAAAAAADAAAQAAIAAEAAGAAAAAAAAAAAAAAAAAAAAAAIAAEEAAAQAAAAAAAwD8AAEABAAAAAAAAAAAAAAgBAAAAAAAAAMACAAAAQCAAAACAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAABQAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAgAAAAKAAAEAAAIAAAAAAAAAAAAAAAAACAAQAAAAAAAgAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAQAAAAAAAAAAgAAAAAAcgMADDKkpAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACIAAdiEFBIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEnrIY/dg%3D0/rs%3DACT90oHHCDiamjU8lRmg9fbt7fidm7gp7g?cb%3D121509378,_basecss:/xjs/_/ss/k%3Dxjs.hd.3QvS0bWOozw.L.W.O/am%3DAAAEAAAACAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAABEEAAAAAAAAAAQAQNYgAAAIAAAAAABAOAAAACgIAAAAAAAgAAABAAAAAAAAACACABAAAAAAAAAAAAAAAAAIAAAAAAAAACAAAAAAAQAAIAAUAAAigAAAAAAAAAAACAAAAAAAAIMAAECAAAAAAAAAAAAAAAIABAAAAAAAAAAAAgAAQGAAEAAAABAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIBJABAAABAAAAAAAEAAAAAAARABCCAIAAhQQsCAQAAAAAAAAAAALAAAAAAAKIQAAEAAAAAAABAAAAAAAABACAQAgAAAAAAAAEACAACCAAMAIFACSngARAAACAQAAAgAEAgAAAIAAAAAAAAAgAAAAgAgAAAAAAAAAAAAAAAgADCAAAAAAAAAAAAAAAIABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU/rs%3DACT90oHKazDCUSk_xoDxnVLBLTpSEbVEIg?cb%3D121509378,_basecomb:/xjs/_/js/k%3Dxjs.hd.en.ZTlPmEZX14A.2023.O/ck%3Dxjs.hd.3QvS0bWOozw.L.W.O/am%3DAAAEAAAACAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAABEEAAACAIAAAAQARNYgAAAIAAAAAABAOAAEACgIAAAAAAAgAAABAAAAAACBACACABAAAAAAAAAAAAAAAAAIQAABAAAAACAAADAAAQAAIAAUAAGigAAAAAAAAAAACAAAAAAAAIMAEECAAQAAAAAAAwD8AAMABAAAAAAAAAAAAgAgRGAAEAAAABMMCAAAAQCAAAACAACAAAAAAAAAAAAAAIBJABAAABAAAAAAAEAAAAAAARABCCAIAAhQQsCAQAAACAAAAAAALAAAAAAAKIQAAEAAAAAAABQAAAAAAABACAQAgAAAAKAAAEACAICCAAMAIFACSngARAACCAQAAAgAEAgAAAIAAAAAAAAAgAAAAgAgAAAAAAAAAAQAAAAgADCAAgAAAAAAcgMADDKkpAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACIAAdiEVBIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEnrIY/d%3D1/ed%3D1/dg%3D0/ujg%3D1/rs%3DACT90oGi5WAlshoHM8mla07kyxqf9PW4xg?cb%3D121509378,_fmt:prog,_id:_EXT2atG7NLuIwbkPwezK2Qo_7&sp_imghp=false&sp_hpep=2&sp_hpte=0&vet=12ahUKEwiRiNak8YOYAxU7RDABHUG2MqsQj-0KegQIABAS..i",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.gstatic.com/og/_/ss/k=og.asy.YuhT9rVKyT8.L.W.O/m=ll_tdm,adcgm3,ll_fw,abld/excm=/d=1/ed=1/ct=zgms/rs=AA2YrTsDzx3eUpNW7Z3v92mabCYutivCDQ",
+        "thirdparty": true
+      },
+      {
+        "url": "https://www.google.com/gen_204?s=webhp&t=aft&atyp=csi&ei=EXT2atG7NLuIwbkPwezK2Qo&rt=wsrt.341,hst.101,prt.810,aft.810&folr=_EXT2atG7NLuIwbkPwezK2Qo_7&imn=6&dtc=119&stc=18&ima=0&imad=0&imac=0&wh=720&nt=navigate&dt=&ts=65694&nhp=h2&ant=push&opi=89978449",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/gen_204?atyp=csi&ei=EXT2atG7NLuIwbkPwezK2Qo&s=webhp&t=all&folr=_EXT2atG7NLuIwbkPwezK2Qo_7&imn=6&dtc=119&stc=18&ima=0&imad=0&imac=0&wh=720&nt=navigate&dt=&ts=65694&nhp=h2&ant=push&tbdba=0&tbdaa=0&ltcba=0&ltcaa=0&thdba=0&thdaa=0&ime=0&imeh=0&imeha=0&imehb=0&imea=0&imeb=0&imel=0&imed=0&imeeb=0&imexb=0&scp=0&cb=65394&ucb=222106&lts=65694&adh=&mem=ujhs.10,tjhs.13,jhsl.3760,dm.16&nv=ne.1,feid.83f26c93-7086-4bb4-8137-f11167164519&hp=&p=bs.true&rt=hst.101,prt.810,aft.810,xjses.819,xjsee.927,xjs.927,wsrt.341,cst.0,dnst.0,rqst.294,rspt.124,sslt.0,rqstt.171,unt.1,cstt.171,dit.1157&zx=1794536466826&opi=89978449",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/xjs/_/js/k=xjs.hd.en.ZTlPmEZX14A.2023.O/ck=xjs.hd.3QvS0bWOozw.L.W.O/am=AAAEAAAACAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAABEEAAACAIAAAAQARNYgAAAIAAAAAABAOAAEACgIAAAAAAAgAAABAAAAAACBACACABAAAAAAAAAAAAAAAAAIQAABAAAAACAAADAAAQAAIAAUAAGigAAAAAAAAAAACAAAAAAAAIMAEECAAQAAAAAAAwD8AAMABAAAAAAAAAAAAgAgRGAAEAAAABMMCAAAAQCAAAACAACAAAAAAAAAAAAAAIBJABAAABAAAAAAAEAAAAAAARABCCAIAAhQQsCAQAAACAAAAAAALAAAAAAAKIQAAEAAAAAAABQAAAAAAABACAQAgAAAAKAAAEACAICCAAMAIFACSngARAACCAQAAAgAEAgAAAIAAAAAAAAAgAAAAgAgAAAAAAAAAAQAAAAgADCAAgAAAAAAcgMADDKkpAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACIAAdiEVBIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEnrIY/d=0/dg=0/ujg=1/rs=ACT90oGi5WAlshoHM8mla07kyxqf9PW4xg/m=sy22p,UEShwc,sy18z,YHnUBc,U9EYge,KdIHef,sy12u,loL8vb,sy140,sy13z,sy13a,sy134,sy13b,sy13v,sy138,sy136,sy135,syhi,sy133,sy13u,sy13r,sy13q,sydw,sydx,sydq,sy13y,syir,syhj,syhh,sya3,sya8,syeg,sy13t,sy13w,sy139,sy13f,sy12w,sy13x,sy13o,sy13n,sy13h,sy13m,sy13i,sy13e,sy13d,sy13c,sy12y,sy12k,sy11c,sy11b,sy12z,ms4mZb,syzy,B2qlPe,sy18q,NzU6V,sy198,sy9x,WlNQGd,sy12j,sy12h,sy12g,DPreE,sy19a,sy199,nabPbb,abd,sy4bh,TDFkye?cb=121509378&xjs=s3",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/xjs/_/js/md=2/k=xjs.hd.en.ZTlPmEZX14A.2023.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAIAAAAAABAAAAAAAAAAAAAAAIAAEAAAAAAAAAAAAAAAAAAAAAACBACACABAAAAAAAAAAAAAAAAAIQAABAAAAAAAAADAAAQAAIAAUAAGAgAAAAAAAAAAAAAAAAAAAAIAAEEAAAQAAAAAAAwD8AAEABAAAAAAAAAAAAAAgBAAAAAAAAAMACAAAAQCAAAACAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAABQAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAgAAAAKAAAEAAAIAAAAAAAAAAAAAAAAACAAQAAAAAAAgAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAQAAAAAAAAAAgAAAAAAcgMADDKkpAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACIAAdiEVBIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEnrIY/rs=ACT90oF-qsiwhYzYJLGqrbORZxIHShkC1A?cb=121509378",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/client_204?atyp=i&biw=1280&bih=720&dpr=1&mtp=10&ei=EXT2atG7NLuIwbkPwezK2Qo&opi=89978449",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/complete/s?q&cp=0&client=gws-wiz&xssi=t&gs_pcrt=2&hl=en&authuser=0&psi=EXT2atG7NLuIwbkPwezK2Qo.1794536466861&dpr=1&nolsbt=1",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/gen_204?s=async&astyp=hpba&t=all&atyp=csi&ei=EnT2aruRM5a8ptQP7pWe4Ac&rt=ipf.26,ipfr.167,ttfb.167,st.197,irfi.197,irli.197,irfie.204,aaft.204,aafit.204,aafct.197,ipfrl.203,acrt.203,art.204,ns.-1116,hns.-1116&twt=6&mwt=5&imn=1&ima=1&sv=&cb=2541&ucb=4572&folid=_EXT2atG7NLuIwbkPwezK2Qo_7",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/xjs/_/js/k=xjs.hd.en.ZTlPmEZX14A.2023.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAIAAAAAABAAAAAAAAAAAAAAAIAAEAAAAAAAAAAAAAAAAAAAAAACBAAACABAAAAAAAAAAAAAAAAAIQAABAAAAAAAAADAAAQAAIAAEAAGAAAAAAAAAAAAAAAAAAAAAAIAAEEAAAQAAAAAAAwD8AAEABAAAAAAAAAAAAAAgBAAAAAAAAAMACAAAAQCAAAACAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAABQAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAgAAAAKAAAEAAAIAAAAAAAAAAAAAAAAACAAQAAAAAAAgAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAQAAAAAAAAAAgAAAAAAcgMADDKkpAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACIAAdiEFBIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEnrIY/d=0/dg=0/rs=ACT90oHHCDiamjU8lRmg9fbt7fidm7gp7g/m=sy2s0,sy4c0,ifl?cb=121509378&xjs=s4",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/gen_204?atyp=csi&ei=EXT2atG7NLuIwbkPwezK2Qo&s=promo&rt=hpbas.1060&zx=1794536466956&opi=89978449",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/gen_204?atyp=csi&ei=EXT2atG7NLuIwbkPwezK2Qo&s=promo&rt=hpbas.1060,hpbarr.1&zx=1794536466957&opi=89978449",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/async/hpba?opi=89978449&sp_imghp=false&sp_hpte=1&ei=EXT2atG7NLuIwbkPwezK2Qo&sp_hpep=1&stick=&vet=12ahUKEwiRiNak8YOYAxU7RDABHUG2MqsQj-0KegQIABAT..i&yv=3&cs=0&async=_basejs:%2Fxjs%2F_%2Fjs%2Fk%3Dxjs.hd.en.ZTlPmEZX14A.2023.O%2Fam%3DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAIAAAAAABAAAAAAAAAAAAAAAIAAEAAAAAAAAAAAAAAAAAAAAAACBAAACABAAAAAAAAAAAAAAAAAIQAABAAAAAAAAADAAAQAAIAAEAAGAAAAAAAAAAAAAAAAAAAAAAIAAEEAAAQAAAAAAAwD8AAEABAAAAAAAAAAAAAAgBAAAAAAAAAMACAAAAQCAAAACAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAABQAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAgAAAAKAAAEAAAIAAAAAAAAAAAAAAAAACAAQAAAAAAAgAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAQAAAAAAAAAAgAAAAAAcgMADDKkpAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACIAAdiEFBIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEnrIY%2Fdg%3D0%2Frs%3DACT90oHHCDiamjU8lRmg9fbt7fidm7gp7g%3Fcb%3D121509378,_basecss:%2Fxjs%2F_%2Fss%2Fk%3Dxjs.hd.3QvS0bWOozw.L.W.O%2Fam%3DAAAEAAAACAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAABEEAAAAAAAAAAQAQNYgAAAIAAAAAABAOAAAACgIAAAAAAAgAAABAAAAAAAAACACABAAAAAAAAAAAAAAAAAIAAAAAAAAACAAAAAAAQAAIAAUAAAigAAAAAAAAAAACAAAAAAAAIMAAECAAAAAAAAAAAAAAAIABAAAAAAAAAAAAgAAQGAAEAAAABAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIBJABAAABAAAAAAAEAAAAAAARABCCAIAAhQQsCAQAAAAAAAAAAALAAAAAAAKIQAAEAAAAAAABAAAAAAAABACAQAgAAAAAAAAEACAACCAAMAIFACSngARAAACAQAAAgAEAgAAAIAAAAAAAAAgAAAAgAgAAAAAAAAAAAAAAAgADCAAAAAAAAAAAAAAAIABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU%2Frs%3DACT90oHKazDCUSk_xoDxnVLBLTpSEbVEIg%3Fcb%3D121509378,_basecomb:%2Fxjs%2F_%2Fjs%2Fk%3Dxjs.hd.en.ZTlPmEZX14A.2023.O%2Fck%3Dxjs.hd.3QvS0bWOozw.L.W.O%2Fam%3DAAAEAAAACAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAABEEAAACAIAAAAQARNYgAAAIAAAAAABAOAAEACgIAAAAAAAgAAABAAAAAACBACACABAAAAAAAAAAAAAAAAAIQAABAAAAACAAADAAAQAAIAAUAAGigAAAAAAAAAAACAAAAAAAAIMAEECAAQAAAAAAAwD8AAMABAAAAAAAAAAAAgAgRGAAEAAAABMMCAAAAQCAAAACAACAAAAAAAAAAAAAAIBJABAAABAAAAAAAEAAAAAAARABCCAIAAhQQsCAQAAACAAAAAAALAAAAAAAKIQAAEAAAAAAABQAAAAAAABACAQAgAAAAKAAAEACAICCAAMAIFACSngARAACCAQAAAgAEAgAAAIAAAAAAAAAgAAAAgAgAAAAAAAAAAQAAAAgADCAAgAAAAAAcgMADDKkpAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACIAAdiEVBIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEnrIY%2Fd%3D1%2Fed%3D1%2Fdg%3D0%2Fujg%3D1%2Frs%3DACT90oGi5WAlshoHM8mla07kyxqf9PW4xg%3Fcb%3D121509378,_fmt:prog,_id:_EXT2atG7NLuIwbkPwezK2Qo_8",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/xjs/_/ss/k=xjs.hd.3QvS0bWOozw.L.W.O/am=AAAEAAAACAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAABEEAAAAAAAAAAQAQNYgAAAIAAAAAABAOAAAACgIAAAAAAAgAAABAAAAAAAAACACABAAAAAAAAAAAAAAAAAIAAAAAAAAACAAAAAAAQAAIAAUAAAigAAAAAAAAAAACAAAAAAAAIMAAECAAAAAAAAAAAAAAAIABAAAAAAAAAAAAgAAQGAAEAAAABAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIBJABAAABAAAAAAAEAAAAAAARABCCAIAAhQQsCAQAAAAAAAAAAALAAAAAAAKIQAAEAAAAAAABAAAAAAAABACAQAgAAAAAAAAEACAACCAAMAIFACSngARAAACAQAAAgAEAgAAAIAAAAAAAAAgAAAAgAgAAAAAAAAAAAAAAAgADCAAAAAAAAAAAAAAAIABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU/d=0/rs=ACT90oHKazDCUSk_xoDxnVLBLTpSEbVEIg/m=sys4,syv1,syus,syqe,sy18x?cb=121509378&xjs=s4",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/xjs/_/js/k=xjs.hd.en.ZTlPmEZX14A.2023.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAIAAAAAABAAAAAAAAAAAAAAAIAAEAAAAAAAAAAAAAAAAAAAAAACBAAACABAAAAAAAAAAAAAAAAAIQAABAAAAAAAAADAAAQAAIAAEAAGAAAAAAAAAAAAAAAAAAAAAAIAAEEAAAQAAAAAAAwD8AAEABAAAAAAAAAAAAAAgBAAAAAAAAAMACAAAAQCAAAACAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAABQAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAgAAAAKAAAEAAAIAAAAAAAAAAAAAAAAACAAQAAAAAAAgAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAQAAAAAAAAAAgAAAAAAcgMADDKkpAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACIAAdiEFBIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEnrIY/d=0/dg=0/rs=ACT90oHHCDiamjU8lRmg9fbt7fidm7gp7g/m=dZKngb,sy28k,xaJoqe,HLchQe,sy28z,sy1xf,sy28u,sy28y,sy1gs,sy11a,sy118,sy119,sy117,sy295,sy294,sy1js,sy1hu,sy1nd,sy1fw,sy1g6,syjz,syj9,syc3,syk5,sy1g5,sy1fx,sy1fy,sy115,sy1fv,cHbZcb,sy19s,sy19p,sy19i,syiy,syhn,sy19d,syjp,syjo,syiu,syg3,sycc,syc9,sy19e,SMquOb,sy9d,sy9c,syjf,syjc,syjd,syjb,sykm,sykl,syki,sykh,sykg,sykb,sykc,syjv,syk4,syjt,syc0,syby,syju,syjs,sybz,syc4,sybq,sybt,syjr,syfz,syjj,syji,syja,syj3,syj4,syj2,syii,sycq,syho,syif,syid,syic,syib,sy9u,syi0,syie,syia,sydo,sydu,sycf,sycy,sycx,sycw,sycv,syck,syct,sycu,sydr,sydj,syd2,sydi,sydd,sydc,syd9,sycs,sydh,syd1,syde,sycm,sycn,syco,sycl,syd3,sycp,sydz,sycg,sycb,syc6,syca,sycj,sydf,syi8,syi2,sye9,syis,syi9,syij,syik,syi7,syg0,syi1,syeb,syec,syed,sye4,sye3,sydl,sye6,sye1,sye7,syci,syd8,sye2,syea,syi5,syhw,syhy,syht,syj1,syj0,syiz,syix,syhm,syhk,sya0,uxMpU,syhb,syey,syez,syex,syew,syah,syae,syad,syac,syab,syaa,Mlhmy,QGR0gd,PoEs9b,Pjplud,OTA3Ae,sya7,A1yn5d,YIZmRd,sy9s,sy9o,sy9n,sy9m,sy9j,sy9h,sy9g,byfTOb,lsjVmc,LEikZe,sy9e,kWgXee,ovKuLd,sgY6Zb,qafBPd,ebZ3mb,dowIGb,sy247,sy19x,syg7,d5EhJe,sy24x,fCxEDd,sy24k,sy24l?cb=121509378&xjs=s4",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/xjs/_/js/k=xjs.hd.en.ZTlPmEZX14A.2023.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAIAAAAAABAAAAAAAAAAAAAAAIAAEAAAAAAAAAAAAAAAAAAAAAACBAAACABAAAAAAAAAAAAAAAAAIQAABAAAAAAAAADAAAQAAIAAEAAGAAAAAAAAAAAAAAAAAAAAAAIAAEEAAAQAAAAAAAwD8AAEABAAAAAAAAAAAAAAgBAAAAAAAAAMACAAAAQCAAAACAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAABQAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAgAAAAKAAAEAAAIAAAAAAAAAAAAAAAAACAAQAAAAAAAgAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAQAAAAAAAAAAgAAAAAAcgMADDKkpAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACIAAdiEFBIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEnrIY/d=0/dg=0/rs=ACT90oHHCDiamjU8lRmg9fbt7fidm7gp7g/m=sy24i,sy24w,sy24s,sy24m,syg4,syg1,syg6,syc2,syc1,sybr,sybg,syfy,syg2,sy24o,syfw,sy24r,sy24q,sy1e8,sy24g,sy1d1,sy1cz,sy1a0,sy19v,sy1a1,sy19l,sy19k,sy1a2,T1HOxc,LFk59d,sy24d,sy24c,sy24a,sy24b,sy249,sys4,zx30Y,sy24z,sy24y,sy19g,sy110,Wo3n8,ZgGg9b,dIoSBb,sy2uk,sy2uo,sy10u,sy2au,syv1,syus,syqe,sy18x,sy2un,sy2um,b6knsb,sy2ui,sy2uh,sy25l,sy18v,sygl,syep,syen,syba,syer,JKoKVe,pXdRYb,sy3y4,sybb,syb8,syb7,sy9y,O1Gjze,TtcOte,wR5FRb,sygj,sygg,sygd,sygc,sydg,sygb,syei,syga,syg9,syg8,syfv,syfu,syfi,syfs,syf5,syeu,syev,syfr,syd7,syfg,syfp,syff,syfn,syfe,syfm,syf0,syf2,syes,syfd,syfk,syfc,syfj,syfb,syfa,syf9,syf7,syf6,syf4,syf3,syfh,syet,syem,syeh,sybf,syb0,sy98,zbML3c,gskBEc,sy23c,s980lf,sy1a9,sy1a7,zGLm3b,sy4ae,sy4ad,sy1d6,sy1d7,DhPYme,sy4ap,sy3vv,sy3vt,syko,sy3w0,sy3vu,sy3w2,sy3vq,sy4ao,KHourd,sy4bt,sy17j,sy11h,oQfbDd?cb=121509378&xjs=s4",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/gen_204?atyp=csi&ei=E3T2aqCLBuL8ptQP2ZqHuQ8&s=async&astyp=hpba&ima=0&imn=0&mem=ujhs.10,tjhs.13,jhsl.3760,dm.16&nv=ne.1,feid.83f26c93-7086-4bb4-8137-f11167164519&hp=&rt=ttfb.115,st.116,bs.27,aaft.118,acrt.119,art.119&zx=1794536467077&opi=89978449",
+        "thirdparty": false
+      },
+      {
+        "url": "https://ogads-pa.clients6.google.com/$rpc/google.internal.onegoogle.asyncdata.v1.AsyncDataService/GetAsyncData",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/gen_204?atyp=i&ct=psnt&cad=&nt=navigate&ei=EXT2atG7NLuIwbkPwezK2Qo&zx=1794536467112&opi=89978449",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/xjs/_/ss/k=xjs.hd.3QvS0bWOozw.L.W.O/am=AAAEAAAACAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAABEEAAAAAAAAAAQAQNYgAAAIAAAAAABAOAAAACgIAAAAAAAgAAABAAAAAAAAACACABAAAAAAAAAAAAAAAAAIAAAAAAAAACAAAAAAAQAAIAAUAAAigAAAAAAAAAAACAAAAAAAAIMAAECAAAAAAAAAAAAAAAIABAAAAAAAAAAAAgAAQGAAEAAAABAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIBJABAAABAAAAAAAEAAAAAAARABCCAIAAhQQsCAQAAAAAAAAAAALAAAAAAAKIQAAEAAAAAAABAAAAAAAABACAQAgAAAAAAAAEACAACCAAMAIFACSngARAAACAQAAAgAEAgAAAIAAAAAAAAAgAAAAgAgAAAAAAAAAAAAAAAgADCAAAAAAAAAAAAAAAIABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU/d=0/rs=ACT90oHKazDCUSk_xoDxnVLBLTpSEbVEIg/m=y05UD,sy20v,sy1hp,sy21i,sy21e,sysf,sy23t,sy23m,sy1hq,sy1ho,sy1hr,sy1hn,syqi,syss,sy23n,sy23j,sy1hs,sy23k,synb,sy23h,sy1lv,sy1lt,sy1ls,epYOx?cb=121509378&xjs=s4",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/xjs/_/js/k=xjs.hd.en.ZTlPmEZX14A.2023.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAIAAAAAABAAAAAAAAAAAAAAAIAAEAAAAAAAAAAAAAAAAAAAAAACBAAACABAAAAAAAAAAAAAAAAAIQAABAAAAAAAAADAAAQAAIAAEAAGAAAAAAAAAAAAAAAAAAAAAAIAAEEAAAQAAAAAAAwD8AAEABAAAAAAAAAAAAAAgBAAAAAAAAAMACAAAAQCAAAACAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAABQAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAgAAAAKAAAEAAAIAAAAAAAAAAAAAAAAACAAQAAAAAAAgAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAQAAAAAAAAAAgAAAAAAcgMADDKkpAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACIAAdiEFBIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEnrIY/d=0/dg=0/rs=ACT90oHHCDiamjU8lRmg9fbt7fidm7gp7g/m=qTnoBf,syar,sOXFj,oGtAuc,NJ1rfe,syaz,q0xTif,y05UD,sy20v,sy1hp,sy21i,sy1i8,sy1i7,sy1i6,sy1i5,sy1i4,sy23v,sy21e,sy23u,sysf,sy23t,sy23m,sy1hw,sy1hx,sy1hq,sy1ho,sy1hr,sy1hn,syqi,syss,sy23n,sy1r5,sy1ib,sy1ia,sy1h1,sy1i3,sy1i2,sy1hy,sy1ic,sy1i1,sy23p,sy23j,sy23l,sy1r0,sy1ie,sy1hs,sy1id,sy1gu,sy23k,synb,sy23h,sy21m,sy21n,sy1lv,sy1lw,sy1lt,sy1ls,sy1lu,epYOx?cb=121509378&xjs=s4",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/gen_204?atyp=i&ei=EXT2atG7NLuIwbkPwezK2Qo&dt19=2&zx=1794536467320&opi=89978449",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/client_204?cs=1&opi=89978449",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/gen_204?atyp=i&ei=EXT2atG7NLuIwbkPwezK2Qo&vet=12ahUKEwiRiNak8YOYAxU7RDABHUG2MqsQuqMJegQIABAi..s&bl=cBGF&s=webhp&lpl=CAUYATADOANiCAgBEODCm_EC&zx=1794536467331&opi=89978449",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/xjs/_/ss/k=xjs.hd.3QvS0bWOozw.L.W.O/am=AAAEAAAACAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAABEEAAAAAAAAAAQAQNYgAAAIAAAAAABAOAAAACgIAAAAAAAgAAABAAAAAAAAACACABAAAAAAAAAAAAAAAAAIAAAAAAAAACAAAAAAAQAAIAAUAAAigAAAAAAAAAAACAAAAAAAAIMAAECAAAAAAAAAAAAAAAIABAAAAAAAAAAAAgAAQGAAEAAAABAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIBJABAAABAAAAAAAEAAAAAAARABCCAIAAhQQsCAQAAAAAAAAAAALAAAAAAAKIQAAEAAAAAAABAAAAAAAABACAQAgAAAAAAAAEACAACCAAMAIFACSngARAAACAQAAAgAEAgAAAIAAAAAAAAAgAAAAgAgAAAAAAAAAAAAAAAgADCAAAAAAAAAAAAAAAIABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU/d=0/rs=ACT90oHKazDCUSk_xoDxnVLBLTpSEbVEIg/m=sym9,syrz?cb=121509378&xjs=s4",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/xjs/_/js/k=xjs.hd.en.ZTlPmEZX14A.2023.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAIAAAAAABAAAAAAAAAAAAAAAIAAEAAAAAAAAAAAAAAAAAAAAAACBAAACABAAAAAAAAAAAAAAAAAIQAABAAAAAAAAADAAAQAAIAAEAAGAAAAAAAAAAAAAAAAAAAAAAIAAEEAAAQAAAAAAAwD8AAEABAAAAAAAAAAAAAAgBAAAAAAAAAMACAAAAQCAAAACAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAABQAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAgAAAAKAAAEAAAIAAAAAAAAAAAAAAAAACAAQAAAAAAAgAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAQAAAAAAAAAAgAAAAAAcgMADDKkpAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACIAAdiEFBIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEnrIY/d=0/dg=0/rs=ACT90oHHCDiamjU8lRmg9fbt7fidm7gp7g/m=sy26a,P10Owf,sy19t,gSZvdb,sy196,sy194,sym9,syrz,CnSW2d,sy191,sy18y,sy18t,sy18s,sy190,nRwWne,sy193,fXO0xe?cb=121509378&xjs=s4",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/xjs/_/js/k=xjs.hd.en.ZTlPmEZX14A.2023.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAIAAAAAABAAAAAAAAAAAAAAAIAAEAAAAAAAAAAAAAAAAAAAAAACBAAACABAAAAAAAAAAAAAAAAAIQAABAAAAAAAAADAAAQAAIAAEAAGAAAAAAAAAAAAAAAAAAAAAAIAAEEAAAQAAAAAAAwD8AAEABAAAAAAAAAAAAAAgBAAAAAAAAAMACAAAAQCAAAACAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAABQAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAgAAAAKAAAEAAAIAAAAAAAAAAAAAAAAACAAQAAAAAAAgAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAQAAAAAAAAAAgAAAAAAcgMADDKkpAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACIAAdiEFBIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEnrIY/d=0/dg=0/rs=ACT90oHHCDiamjU8lRmg9fbt7fidm7gp7g/m=TxCJfd,sy5ni,Dpx6qc,Np8Qkd,sy4nz,sy3ev,sy383,HFecgf,sy1pa,nqQ5fe,sy245,sy244,sy243,Ix7YEd,sy4v7,Tmm4ff,sy4o5,sy4o4,sy4o3,sy4o2,sy4o1,sy4o0,FZSjO,sy3th,dp6JMc,sy2e3,sy1br,sy1b4,sy1ba,sy1bb,sy1b3,sy2p1,sy2i3,sy1bs,sy1b6,sy1bh,sy1bf,sy672,sy4v8,sy2i5,sy15j,sy15i,HK6Tmb,sy4v6,hmxkV?cb=121509378&xjs=s4",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/xjs/_/js/k=xjs.hd.en.ZTlPmEZX14A.2023.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAIAAAAAABAAAAAAAAAAAAAAAIAAEAAAAAAAAAAAAAAAAAAAAAACBAAACABAAAAAAAAAAAAAAAAAIQAABAAAAAAAAADAAAQAAIAAEAAGAAAAAAAAAAAAAAAAAAAAAAIAAEEAAAQAAAAAAAwD8AAEABAAAAAAAAAAAAAAgBAAAAAAAAAMACAAAAQCAAAACAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAABQAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAgAAAAKAAAEAAAIAAAAAAAAAAAAAAAAACAAQAAAAAAAgAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAQAAAAAAAAAAgAAAAAAcgMADDKkpAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACIAAdiEFBIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEnrIY/d=0/dg=0/rs=ACT90oHHCDiamjU8lRmg9fbt7fidm7gp7g/m=sy593,sy53q,Jlf2lc?cb=121509378&xjs=s4",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/wizrpcui/_/WizRpcUi/data/batchexecute?rpcids=VeQe9d&source-path=%2F&hl=en&_reqid=73268&rt=c",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/log?format=json&hasfast=true&authuser=0",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/xjs/_/js/k=xjs.hd.en.ZTlPmEZX14A.2023.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAIAAAAAABAAAAAAAAAAAAAAAIAAEAAAAAAAAAAAAAAAAAAAAAACBAAACABAAAAAAAAAAAAAAAAAIQAABAAAAAAAAADAAAQAAIAAEAAGAAAAAAAAAAAAAAAAAAAAAAIAAEEAAAQAAAAAAAwD8AAEABAAAAAAAAAAAAAAgBAAAAAAAAAMACAAAAQCAAAACAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAABQAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAgAAAAKAAAEAAAIAAAAAAAAAAAAAAAAACAAQAAAAAAAgAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAQAAAAAAAAAAgAAAAAAcgMADDKkpAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACIAAdiEFBIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEnrIY/d=0/dg=0/rs=ACT90oHHCDiamjU8lRmg9fbt7fidm7gp7g/m=lOO0Vd,P6sQOc?cb=121509378&xjs=s4",
+        "thirdparty": false
+      },
+      {
+        "url": "https://play.google.com/log?format=json&hasfast=true",
+        "thirdparty": false
+      }
+    ]
+  },
+  {
+    "website": "https://www.wikipedia.org",
+    "collectedAt": "2026-11-13T02:21:11.042Z",
+    "urls": [
+      {
+        "url": "https://www.wikipedia.org/",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/sprite-e49fbf32.svg",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.wikipedia.org/portal/wikipedia.org/assets/js/index-be66aee782.js",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.wikipedia.org/portal/wikipedia.org/assets/js/gt-ie9-507b16b6be.js",
+        "thirdparty": false
+      }
+    ]
+  },
+  {
+    "website": "https://www.mozilla.org",
+    "collectedAt": "2026-11-13T02:21:23.035Z",
+    "urls": [
+      {
+        "url": "https://www.mozilla.org/",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/js/site.c6d6f1fa36a4.js",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/css/protocol-mozilla.eafbcba9bb2a.css",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/css/m24-navigation-and-footer.038277dadfff.css",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/css/locales.67d2e1de4170.css",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/js/gtm-snippet.cc9550e6b401.js",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/img/logos/m24/lockup-black.f2ddba3f0724.svg",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/js/sentry.d1770d77b071.js",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/js/lib.57070d33021c.js",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/js/fxa.bf74c411a79c.js",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/js/data.a3c1e6e4dfae.js",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/js/m24-ui.54a2e7c5dc9d.js",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/js/consent-banner.20ae7deac179.js",
+        "thirdparty": false
+      },
+      {
+        "url": "https://gtm.mozilla.org/script/?id=GTM-MW3R8V&l=dataLayer",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/img/mozorg/locales/world-map.cf16b513be22.png",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/img/icons/social/bluesky/white.8fd522097881.svg",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/protocol/img/icons/social/instagram/white.a7014a6150b3.svg",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/protocol/img/icons/social/linkedin/white.cdc0e910cc1e.svg",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/protocol/img/icons/social/tiktok/white.599403de7ac0.svg",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/protocol/img/icons/social/spotify/white.aa5334e85bae.svg",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/protocol/img/icons/social/youtube/white.4f314c43c69d.svg",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/protocol/fonts/mozilla-text/MozillaText-SemiBold.b126cc23eddf.woff2",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/protocol/fonts/mozilla-headline/MozillaHeadline-SemiBold.bccc6c46c123.woff2",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/protocol/fonts/mozilla-text/MozillaText-Regular.71c103450d6d.woff2",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/img/logos/m24/wordmark-white.2d673bb5b33a.svg",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MW3R8V&gtg_health=1",
+        "thirdparty": true
+      },
+      {
+        "url": "https://gtm.mozilla.org/script/TzqF5TevzcblkyNUvs2SOKmR75DezBc74bHMhjxOQuAJiMe_d6uci-3ROk6zl7so0fG-kY3Cc1uJgtnQIBUV9AiYmeNz-prevtElD-OTsCDQpLmUjcN-XtWFjNAmR0D-Ws2btXCtyNy72H9e6snlLLvy6JXeyndbgyHG",
+        "thirdparty": false
+      },
+      {
+        "url": "https://gtm.mozilla.org/g/collect?v=2&tid=G-MQ7767QQQW&gtm=45he6bb1v877483787za20szb71075029zd71075029xf3xg4&_p=1794536472487&gcs=G101&gcd=13p3tPp2p5l1&npa=1&dma_cps=-&dma=1&ecid=506272673&_eu=AAAAACA&_fplc=0&cid=2097999597.1794536482&frm=0&ibt=1&ngs=1&pscdl=denied&rcb=10&sr=1280x720&uaa=x86&uab=64&uafvl=Chromium%3B158.0.8127.18%7CNot.A%252FBrand%3B24.0.0.0%7CHeadlessChrome%3B158.0.8127.18&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&ur=&sst.rnd=639383372.1794536482&sst.gch=1&sst.tft=1794536472487&sst.lpc=150903082&sst.navt=n&sst.ude=0&sst.sw_exp=1&_s=1&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120412526~120420416~120469145~120469153~121246026~121246034~123785234&sid=1794536482&sct=1&seg=0&dl=https%3A%2F%2Fwww.mozilla.org%2F&dt=Internet%20for%20people%2C%20not%20profit%20%E2%80%94%20Mozilla%20Global&gtb=2&_tu=BA&en=page_view&_fv=1&_nsi=1&_ss=1&gap.sstd=5&gap.gtb=2&ep.data_source=server&tfd=10510&richsstsse",
+        "thirdparty": false
+      },
+      {
+        "url": "https://gtm.mozilla.org/_/service_worker/6al0/sw_iframe.html?origin=https%3A%2F%2Fwww.mozilla.org&1p=1",
+        "thirdparty": false
+      }
+    ]
+  },
+  {
+    "website": "https://edition.cnn.com/2026/11/12/sport/what-to-know-for-nfl-week-10",
+    "collectedAt": "2026-11-13T02:21:31.303Z",
+    "urls": [
+      {
+        "url": "https://edition.cnn.com/2026/11/12/sport/what-to-know-for-nfl-week-10",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/fonts/cnn/cnn_sans_display-v1.woff2",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/fonts/cnn/cnn_sans_display-medium-v1.woff2",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/fonts/cnn/cnn_sans_display-bold-v1.woff2",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/fonts/cnn/noto_serif_display-v1.woff2",
+        "thirdparty": false
+      },
+      {
+        "url": "https://lightning.cnn.com/launch/7be62238e4c3/97fa00444124/launch-2878c87af5e3.min.js",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/media/sites/js/bundles/cnn-edition-adfuel-41088f557462fde981445fa7055f73bbcdce93fe0dfe99c13ecc14d127167bd6.min.js",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/media/sites/js/bundles/cnn-edition-adfuel-body-f5f29a92b42af7c045a57b85f77667e4f871a89098f7fff2468fd5b7c9fcd250.min.js",
+        "thirdparty": false
+      },
+      {
+        "url": "https://registry.api.cnn.io/bundles/fave/latest-4.x/js",
+        "thirdparty": true
+      },
+      {
+        "url": "https://ix.cnn.io/dailygraphics/static/js/pym.v1.min.js",
+        "thirdparty": true
+      },
+      {
+        "url": "https://cdn.optimizely.com/public/125375509/s/articleprod.js",
+        "thirdparty": true
+      },
+      {
+        "url": "https://media.cnn.com/api/v1/images/stellar/prod/141222170945-andy-scholes-profile.jpg?c=16x9&q=h_270,w_480,c_fill/c_thumb,g_face,w_50,h_50",
+        "thirdparty": false
+      },
+      {
+        "url": "https://media.cnn.com/api/v1/images/stellar/prod/01-ap26315715032759.JPG?c=original&q=w_860,c_fill/f_avif",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/media/sites/cnn/google-play-cnn-app-qr-code.png",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/media/sites/cnn/app-store-cnn-app-qr-code.png",
+        "thirdparty": false
+      },
+      {
+        "url": "https://lightning.cnn.com/launch/7be62238e4c3/97fa00444124/c5cbddd2b322/EX3369274195e2430d9d8ea7012971cb11-libraryCode_source.min.js",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/media/sites/cnn/icons/video-icon-header.svg",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/media/sites/cnn/icons/audio-icon-header.svg",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/media/sites/cnn/icons/live-tv-icon-header.svg",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/media/components/breadcrumb/caret-right-icon.svg",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/media/components/breadcrumb/read-time-separator.svg",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/media/sites/cnn/icons/ui-chip-add.svg",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/media/sites/cnn/icons/ui-search.svg",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/fonts/cnn/noto_serif-v1.woff2",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/fonts/cnn/noto_serif-bold-v1.woff2",
+        "thirdparty": false
+      },
+      {
+        "url": "https://media.cnn.com/api/v1/images/stellar/prod/02-gettyimages-2304208286.JPG?c=original&q=w_860,c_fill/f_webp",
+        "thirdparty": false
+      },
+      {
+        "url": "https://media.cnn.com/api/v1/images/stellar/prod/03-gettyimages-2304371720.JPG?c=original&q=w_860,c_fill/f_webp",
+        "thirdparty": false
+      },
+      {
+        "url": "https://fave.api.cnn.io/v1/runtime-configs?env=prod",
+        "thirdparty": true
+      },
+      {
+        "url": "https://registry.api.cnn.io/bundles/fave/4.72.2/css",
+        "thirdparty": true
+      },
+      {
+        "url": "https://registry.api.cnn.io/bundles/fave/4.72.2/vendorHashes",
+        "thirdparty": true
+      },
+      {
+        "url": "https://registry.api.cnn.io/bundles/fave/vendor-ccb335e9/vendor",
+        "thirdparty": true
+      },
+      {
+        "url": "https://registry.api.cnn.io/bundles/fave/4.72.2/app",
+        "thirdparty": true
+      },
+      {
+        "url": "https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap",
+        "thirdparty": true
+      },
+      {
+        "url": "https://edition.cnn.com/public/api/alerts",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/media/sites/cnn/icons/ui-caret-down-elevate.svg",
+        "thirdparty": false
+      },
+      {
+        "url": "https://js.stripe.com/dahlia/stripe.js",
+        "thirdparty": true
+      },
+      {
+        "url": "https://edition.cnn.com/wbdotp/scripttemplates/otSDKStub.js",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.cnn.com/media/sites/cnn/cnn.svg",
+        "thirdparty": false
+      },
+      {
+        "url": "https://imasdk.googleapis.com/js/sdkloader/ima3.js",
+        "thirdparty": true
+      },
+      {
+        "url": "https://accounts.google.com/gsi/client",
+        "thirdparty": true
+      },
+      {
+        "url": "https://edition.cnn.com/wbdotp/consent/3d9a6f21-8e47-43f8-8d58-d86150f3e92b/3d9a6f21-8e47-43f8-8d58-d86150f3e92b.json",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/wbdotp/scripttemplates/202610.1.0/otBannerSdk.js",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/media/sites/cnn/icons/gray-caret.svg",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/wbdotp/consent/3d9a6f21-8e47-43f8-8d58-d86150f3e92b/01a15a17-c12e-7a4c-b2c5-f2cc337086d4/en.json",
+        "thirdparty": false
+      },
+      {
+        "url": "https://cookies-data.onetrust.io/cfw/cmp/v1/session",
+        "thirdparty": true
+      },
+      {
+        "url": "https://edition.cnn.com/wbdotp/scripttemplates/202610.1.0/assets/otFlat.json",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/wbdotp/scripttemplates/202610.1.0/assets/v2/otPcCenter.json",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/wbdotp/scripttemplates/202610.1.0/assets/otCommonStyles.css",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/wbdotp/consent/3d9a6f21-8e47-43f8-8d58-d86150f3e92b/01a15a17-c12e-7a4c-b2c5-f2cc337086d4/logos/static/ot_guard_logo.svg",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/wbdotp/consent/3d9a6f21-8e47-43f8-8d58-d86150f3e92b/01a15a17-c12e-7a4c-b2c5-f2cc337086d4/logos/9651e1f6-c35b-4377-be7f-5a0c93f0ecb8/fd2c628a-153d-49d4-b7b4-92a834c64b28/507420f5-a79f-4038-baea-bb890032307c/CNN_logo.png",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/wbdotp/consent/3d9a6f21-8e47-43f8-8d58-d86150f3e92b/01a15a17-c12e-7a4c-b2c5-f2cc337086d4/logos/static/powered_by_logo.svg",
+        "thirdparty": false
+      },
+      {
+        "url": "https://accounts.google.com/gsi/style",
+        "thirdparty": true
+      },
+      {
+        "url": "https://accounts.google.com/gsi/status?client_id=173709198955-nkj6h0ag8soarm2bpbp9pc0ulp0s5t2b.apps.googleusercontent.com&cas=waG5IMxSgaZGejnkHeXWTbipkYHh5w283ZIdRqDTemw&bs=tlORqgKKN62%2BJJgsXQTcZ%2BU7lXieixDlRFOkPL3iRB4&has_opted_out_fedcm=false",
+        "thirdparty": true
+      },
+      {
+        "url": "https://js.stripe.com/v3/m-outer-0edadf75b42c6ef7240c043f3272f3f9.html",
+        "thirdparty": true
+      },
+      {
+        "url": "https://google.com/.well-known/web-identity",
+        "thirdparty": true
+      },
+      {
+        "url": "https://accounts.google.com/gsi/fedcm/config/passive.json",
+        "thirdparty": true
+      },
+      {
+        "url": "https://js.stripe.com/v3/fingerprinted/js/m-outer-df5ee3b49f88025f22168cdfc5823764.js",
+        "thirdparty": true
+      },
+      {
+        "url": "https://m.stripe.network/inner.html",
+        "thirdparty": true
+      },
+      {
+        "url": "https://m.stripe.network/out-4.5.45.js",
+        "thirdparty": true
+      },
+      {
+        "url": "https://accounts.google.com/gsi/fedcm/listaccounts",
+        "thirdparty": true
+      },
+      {
+        "url": "https://m.stripe.com/6",
+        "thirdparty": true
+      }
+    ]
+  }
+]

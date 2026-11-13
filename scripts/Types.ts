@@ -21,3 +21,15 @@ export interface WebsiteResult {
     cookies: CookieInfo[];
     error?: string;
 }
+
+export interface ResultURL {
+    url: string;
+    thirdparty: boolean;
+}
+
+export interface NetResult {
+    website: string;
+    collectedAt: string;
+    urls: ResultURL[];
+    error?: string;
+}
