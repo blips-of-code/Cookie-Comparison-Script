@@ -135,19 +135,19 @@ function isRequestThirdParty(
 ): boolean {
 
     const siteHostname = new URL(_siteURL).hostname;
-    const cookieDomain = getDomain(new URL(_reqDomain).hostname);
+    const reqDomain = getDomain(new URL(_reqDomain).hostname);
     const siteDomain = getDomain(siteHostname);
 
     // Fall back to hostname comparison when needed.
     return (siteDomain ?? siteHostname) !==
-        (cookieDomain ?? _reqDomain);
+        (reqDomain ?? _reqDomain);
 }
 
 async function NetTraffic(): Promise<void> {
     const output_array_c: NetResult[] = [];
     const output_array_f: NetResult[] = [];
     const output_array_w: NetResult[] = [];
-    
+
     for (const website of WEBSITES){
         console.log(`Collecting request urls: ${website}`);
     
