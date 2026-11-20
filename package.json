@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "collect-cookies": "tsx scripts/CollectCookies.ts"
+    "collect-cookies": "tsx scripts/CollectCookies.ts",
+    "collect-nettraffic": "tsx scripts/CollectNetTraffic.ts"
   },
   "devDependencies": {
     "playwright": "^1.65.0",
