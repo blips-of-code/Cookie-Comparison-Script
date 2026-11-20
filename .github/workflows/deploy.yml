@@ -1,0 +1,80 @@
+
+name: Collect Cookies and Deploy Website
+
+on:
+  push:
+    branches:
+      - main
+
+  workflow_dispatch:
+
+  schedule:
+    # Runs daily at 12:00 UTC.
+    - cron: "0 12 * * *"
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    name: Collect Cookies and Build
+    runs-on: ubuntu-latest
+
+    steps:
+      # Downloads the repository.
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # Installs Node.js.
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      # Installs NPM dependencies.
+      - name: Install Dependencies
+        run: npm ci
+
+      # Installs Chromium for Playwright.
+      - name: Install Chromium
+        run: npx playwright install --with-deps chromium
+
+      # Runs the cookie collection script.
+      - name: Collect Cookies
+        run: npm run collect-cookies
+
+      # Builds the Vite website.
+      - name: Build Website
+        run: npm run build
+
+      # Configures GitHub Pages.
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      # Uploads the website and collected JSON.
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: ./dist
+
+  deploy:
+    name: Deploy GitHub Pages
+    runs-on: ubuntu-latest
+    needs: build
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      # Publishes the built website.
+      - name: Deploy Website
+        id: deployment
+        uses: actions/deploy-pages@v4

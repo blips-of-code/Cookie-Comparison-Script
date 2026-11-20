@@ -1,0 +1,314 @@
+[
+  {
+    "website": "https://www.google.com",
+    "collectedAt": "2026-11-13T18:43:34.358Z",
+    "cookies": [
+      {
+        "name": "AEC",
+        "domain": ".google.com",
+        "path": "/",
+        "expires": 1810147410.541568,
+        "date_collected": "Fri, 13 Nov 2026 18:43:34 GMT",
+        "date_expires": "Wed, 12 May 2027 18:43:30 GMT",
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "Lax",
+        "isThirdParty": false
+      },
+      {
+        "name": "__Secure-STRP",
+        "domain": ".google.com",
+        "path": "/",
+        "expires": 1794595711.552182,
+        "date_collected": "Fri, 13 Nov 2026 18:43:34 GMT",
+        "date_expires": "Fri, 13 Nov 2026 18:48:31 GMT",
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Strict",
+        "isThirdParty": false
+      },
+      {
+        "name": "NID",
+        "domain": ".google.com",
+        "path": "/",
+        "expires": 1810406610.5523,
+        "date_collected": "Fri, 13 Nov 2026 18:43:34 GMT",
+        "date_expires": "Sat, 15 May 2027 18:43:30 GMT",
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "Lax",
+        "isThirdParty": false
+      }
+    ]
+  },
+  {
+    "website": "https://www.wikipedia.org",
+    "collectedAt": "2026-11-13T18:43:38.688Z",
+    "cookies": [
+      {
+        "name": "WMF-Last-Access",
+        "domain": "www.wikipedia.org",
+        "path": "/",
+        "expires": 1797380911.974116,
+        "date_collected": "Fri, 13 Nov 2026 18:43:38 GMT",
+        "date_expires": "Wed, 16 Dec 2026 00:28:31 GMT",
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "Lax",
+        "isThirdParty": false
+      },
+      {
+        "name": "WMF-Last-Access-Global",
+        "domain": ".wikipedia.org",
+        "path": "/",
+        "expires": 1797380911.974535,
+        "date_collected": "Fri, 13 Nov 2026 18:43:38 GMT",
+        "date_expires": "Wed, 16 Dec 2026 00:28:31 GMT",
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "Lax",
+        "isThirdParty": false
+      },
+      {
+        "name": "GeoIP",
+        "domain": ".wikipedia.org",
+        "path": "/",
+        "expires": -1,
+        "date_collected": "Fri, 13 Nov 2026 18:43:38 GMT",
+        "date_expires": "Wed, 31 Dec 1969 23:59:59 GMT",
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax",
+        "isThirdParty": false
+      },
+      {
+        "name": "NetworkProbeLimit",
+        "domain": "www.wikipedia.org",
+        "path": "/",
+        "expires": 1794599014.974701,
+        "date_collected": "Fri, 13 Nov 2026 18:43:38 GMT",
+        "date_expires": "Fri, 13 Nov 2026 19:43:34 GMT",
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "isThirdParty": false
+      },
+      {
+        "name": "WMF-Uniq",
+        "domain": ".wikipedia.org",
+        "path": "/",
+        "expires": 1826109697.046473,
+        "date_collected": "Fri, 13 Nov 2026 18:43:38 GMT",
+        "date_expires": "Sat, 13 Nov 2027 12:41:37 GMT",
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None",
+        "isThirdParty": false
+      }
+    ]
+  },
+  {
+    "website": "https://www.mozilla.org",
+    "collectedAt": "2026-11-13T18:43:43.033Z",
+    "cookies": [
+      {
+        "name": "_ga_MQ7767QQQW",
+        "domain": ".mozilla.org",
+        "path": "/",
+        "expires": 1829155420.753517,
+        "date_collected": "Fri, 13 Nov 2026 18:43:42 GMT",
+        "date_expires": "Sat, 18 Dec 2027 18:43:40 GMT",
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax",
+        "isThirdParty": false
+      },
+      {
+        "name": "_ga",
+        "domain": ".mozilla.org",
+        "path": "/",
+        "expires": 1829155420.754096,
+        "date_collected": "Fri, 13 Nov 2026 18:43:42 GMT",
+        "date_expires": "Sat, 18 Dec 2027 18:43:40 GMT",
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax",
+        "isThirdParty": false
+      }
+    ]
+  },
+  {
+    "website": "https://edition.cnn.com/2026/11/12/sport/what-to-know-for-nfl-week-10",
+    "collectedAt": "2026-11-13T18:43:48.041Z",
+    "cookies": [
+      {
+        "name": "wbdFch",
+        "domain": ".edition.cnn.com",
+        "path": "/2026/11/12/sport/what-to-know-for-nfl-week-10",
+        "expires": 1794595453.881227,
+        "date_collected": "Fri, 13 Nov 2026 18:43:47 GMT",
+        "date_expires": "Fri, 13 Nov 2026 18:44:13 GMT",
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "isThirdParty": false
+      },
+      {
+        "name": "SecGpc",
+        "domain": ".cnn.com",
+        "path": "/",
+        "expires": -1,
+        "date_collected": "Fri, 13 Nov 2026 18:43:47 GMT",
+        "date_expires": "Wed, 31 Dec 1969 23:59:59 GMT",
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "isThirdParty": false
+      },
+      {
+        "name": "countryCode",
+        "domain": ".cnn.com",
+        "path": "/",
+        "expires": -1,
+        "date_collected": "Fri, 13 Nov 2026 18:43:47 GMT",
+        "date_expires": "Wed, 31 Dec 1969 23:59:59 GMT",
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "isThirdParty": false
+      },
+      {
+        "name": "stateCode",
+        "domain": ".cnn.com",
+        "path": "/",
+        "expires": -1,
+        "date_collected": "Fri, 13 Nov 2026 18:43:47 GMT",
+        "date_expires": "Wed, 31 Dec 1969 23:59:59 GMT",
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "isThirdParty": false
+      },
+      {
+        "name": "FastAB",
+        "domain": ".cnn.com",
+        "path": "/",
+        "expires": 1826131423.881275,
+        "date_collected": "Fri, 13 Nov 2026 18:43:47 GMT",
+        "date_expires": "Sat, 13 Nov 2027 18:43:43 GMT",
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None",
+        "isThirdParty": false
+      },
+      {
+        "name": "usprivacy",
+        "domain": ".cnn.com",
+        "path": "/",
+        "expires": -1,
+        "date_collected": "Fri, 13 Nov 2026 18:43:47 GMT",
+        "date_expires": "Wed, 31 Dec 1969 23:59:59 GMT",
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "isThirdParty": false
+      },
+      {
+        "name": "geoData",
+        "domain": ".cnn.com",
+        "path": "/",
+        "expires": -1,
+        "date_collected": "Fri, 13 Nov 2026 18:43:47 GMT",
+        "date_expires": "Wed, 31 Dec 1969 23:59:59 GMT",
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "isThirdParty": false
+      },
+      {
+        "name": "g_state",
+        "domain": "edition.cnn.com",
+        "path": "/",
+        "expires": 1810147425,
+        "date_collected": "Fri, 13 Nov 2026 18:43:47 GMT",
+        "date_expires": "Wed, 12 May 2027 18:43:45 GMT",
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax",
+        "isThirdParty": false
+      },
+      {
+        "name": "OptanonControl",
+        "domain": ".cnn.com",
+        "path": "/",
+        "expires": 1826131425,
+        "date_collected": "Fri, 13 Nov 2026 18:43:47 GMT",
+        "date_expires": "Sat, 13 Nov 2027 18:43:45 GMT",
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "isThirdParty": false
+      },
+      {
+        "name": "OptanonConsent",
+        "domain": ".cnn.com",
+        "path": "/",
+        "expires": 1826131425,
+        "date_collected": "Fri, 13 Nov 2026 18:43:47 GMT",
+        "date_expires": "Sat, 13 Nov 2027 18:43:45 GMT",
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "isThirdParty": false
+      },
+      {
+        "name": "_OT_sm",
+        "domain": "edition.cnn.com",
+        "path": "/",
+        "expires": 1794681825,
+        "date_collected": "Fri, 13 Nov 2026 18:43:47 GMT",
+        "date_expires": "Sat, 14 Nov 2026 18:43:45 GMT",
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax",
+        "isThirdParty": false
+      },
+      {
+        "name": "m",
+        "domain": "m.stripe.com",
+        "path": "/",
+        "expires": 1829155426.744767,
+        "date_collected": "Fri, 13 Nov 2026 18:43:47 GMT",
+        "date_expires": "Sat, 18 Dec 2027 18:43:46 GMT",
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None",
+        "isThirdParty": false
+      },
+      {
+        "name": "__stripe_mid",
+        "domain": ".edition.cnn.com",
+        "path": "/",
+        "expires": 1826131426,
+        "date_collected": "Fri, 13 Nov 2026 18:43:47 GMT",
+        "date_expires": "Sat, 13 Nov 2027 18:43:46 GMT",
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Strict",
+        "isThirdParty": false
+      },
+      {
+        "name": "__stripe_sid",
+        "domain": ".edition.cnn.com",
+        "path": "/",
+        "expires": 1794597226,
+        "date_collected": "Fri, 13 Nov 2026 18:43:47 GMT",
+        "date_expires": "Fri, 13 Nov 2026 19:13:46 GMT",
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Strict",
+        "isThirdParty": false
+      }
+    ]
+  }
+]

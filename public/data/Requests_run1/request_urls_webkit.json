@@ -1,0 +1,780 @@
+[
+  {
+    "website": "https://www.google.com",
+    "collectedAt": "2026-11-20T00:29:12.086Z",
+    "count": 37,
+    "urls": [
+      {
+        "url": "https://www.google.com/",
+        "date_collected": "Fri, 20 Nov 2026 00:29:09 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/shared_dict/homepage/6da693baa51a2e9a82e782cc621c5838bcaf35c9b6de3a17fec70c80564485d2.dict",
+        "date_collected": "Fri, 20 Nov 2026 00:29:09 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/xjs/_/ss/k=xjs.hd.wDpcmV2i3LA.L.F4.O/am=AAAAAAAAAAACAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAIBAEAAAAAAAABAAAFGDCAAgAAAAAACAcAAAAKAAAAAAAAAABAAAACAAAAAAAAAEACABAAAAAAAAAAAAAAAAAQAAAAAIAAAAAAAAAAAIAAGgAAAAAQAAAAAAAAAIAAAAAAAAgAADIEAAABAAAAAAAAAAAAAMAAAAAAAAAAAAACAABAaAAAAAEAwAAAAAAAAAABAAAAAAAAAAAAAAAAAAAEAkABEAABAAAAAAAEAAAAAAAEQAQggCAAIUELAgEAQAAAAAAIAAYAEAAACAhgIxQAQAAAAAAAAEAAAAAAAAABACAAAIAAAAAAAAAQAIAAAAAIxAASDpCRABAAgEAAAEAGgEAAAAQAAAAAAAABAAAAAAEQCAAAAAAAAAAAAASAJgAAEAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC/d=1/ed=1/br=1/rs=ACT90oGSytmNmar6l4rCiUPojQLcwqHCuw/m=cdos,hsm,jsa,mb4ZUb,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl,YV5bee,d,csi?cb=121509378",
+        "date_collected": "Fri, 20 Nov 2026 00:29:09 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/xjs/_/js/k=xjs.hd.en.z1blPamF250.2023.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICACAAAAEAAAAAAAAAAAAAAAQAAQAAAAAAAAAAAAAAAAAAAAAAAAECAEACABAAAAAAAAAAAAAAAAAQAAABAAAAAAAIABAAAIAAGgAAAAGAAAAAAAAAAAAAAAAAAAgAAQIAAAgAAAAAAAAP8ADDAKAAAAAAAAAAAAAABCAAAAAAAAAAALAAAAAAIBAAAAIAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAUAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAIAAAABQAAAQAAAgAAAAAAAAAAAAAAAAAGAAAAAGAEAAAAAAAAAAAAAAAAAAAAAQAAAQAAEAAIAAAAAAAAAAAABAAAAOAABB5gSE0BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAu5ACAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg5ISF/d=1/ed=1/dg=4/br=1/rs=ACT90oFtJXUcVOZOYJnycxguWZvsUFot8Q/ee=ALeJib:B8gLwd;AfeaP:TkrAjf;BMxAGc:E5bFse;BgS6mb:fidj5d;BjwMce:cXX2Wb;BuJtU:v6yjN;CIZTGb:Kqhykb;CxXAWb:YyRLvc;D0uLQb:UrRsXe;DQEued:Fevhcf;DULqB:RKfG5c;Dkk6ge:JZmW9e;DpcR3d:zL72xf;EABSZ:MXZt9d;ESrPQc:mNTJvc;EVNhjf:pw70Gc;EjXHpb:pSHqh;EmZ2Bf:zr1jrb;EnlcNd:WeHg4;F54IAe:ZgsFh;F9mqte:UoRcbe;FSxmUe:fiZR8b;Fkukfc:i8H2c;Fmv9Nc:O1Tzwc;G0KhTb:LIaoZ;GleZL:J1A7Od;HMDDWe:G8QUdb;HtPxrd:Gx8jAb;IBADCc:RYquRb;ImvEf:IBTA4e;IsdWVc:qzxzOb;JXJSm:ii1RGf;JXS8fb:Qj0suc;JqSq7d:y9ePhe;JsbNhc:Xd8iUd;K08hxe:zmbGlf;K5nYTd:ZDZcre;KA3P2:C3JnCe;KDb6nb:fE9n2;KOxcK:OZqGte;KQzWid:ZMKkN;KdIHef:BWtNj;KpRAue:Tia57b;LBgRLc:SdcwHb,XVMNvd;LBn8Cf:bJ9L0c;LEikZe:byfTOb,lsjVmc;LXA8b:q7OdKd;LsNahb:ucGLNb;MNkAde:KMCd1d;NJ1rfe:qTnoBf;NPKaK:SdcwHb;NSEoX:lazG7b;NjIwef:YVgi7d;Np8Qkd:Dpx6qc;Nyt6ic:jn2sGd;O53Aqe:sQbkGd;OIfWUb:qfOYcd;OiqE2c:TFpEK;OoK5v:Sp69O;OohIYe:mpEAQb;Pjplud:PoEs9b;PpTLXd:pJYjx;Q1Ow7b:x5CSu;Q7iJ9c:bVLZ3d;QE20Be:gIltO;QFOGlf:PQ2Aoe;QGR0gd:Mlhmy;QYLF2b:pAQYUd;Qk7yid:BbYS0d;Qw8Feb:jpavUe;R4IIIb:QWfeKf;R9Ulx:CR7Ufe;RCF5Sd:X1kBmd;RZKicf:PQXVv;Raf5me:mgvFMc;SFghJd:YRZpK;SLtqO:Kh1xYe;SNUn3:ZwDk9d,xD8Kp;SNk4Je:wWMhg;ScI3Yc:e7Hzgb,e7Hzgb;ShpF6e:N0pvGc;Snahre:mGCtob;SzQQ3e:dNhofb;TIUVQd:lWTJwd;TroZ1d:vVVzjb;U96pRd:FsR04;UBKJZ:LGDJGb;UDrY1c:N0F29d,W50NVd,eps46d,wciyUe;UVmjEd:EesRsb;UVzb9c:IvPZ6d;UYRIEb:HzTAQc;UyG7Kb:wQd0G;V2HTTe:RolTY;VGRfx:VFqbr;VMuEm:pL7sBc;VN6jIc:ddQyuf;VOcgDe:YquhTb;VZN6W:CniFLb;VhA7bd:vAmQFf;VsAqSb:PGf2Re;W9QSQe:ynCWwc;WDGyFe:jcVOxd;WXtNeb:QU9BMd;Wfmdue:g3MJlb;Wl55ib:vgbiKb;Y3c5sd:FGbfLe;YIZmRd:A1yn5d;YV5bee:IvPZ6d;YnHUBf:sNsSob;ZSH6tc:QAvyLe;ZlOOMb:P0I0Ec;a56pNe:JEfCwb;aAJE9c:WHW6Ef;aCJ9tf:qKftvc;aVZq3e:EMeVIb;aZ61od:arTwJ;aci7y:Z5Tr6c;bUIkwb:WMwEHe;bcPXSc:gSZLJb;cEt90b:ws9Tlc;cFTWae:gT8qnd;dIoSBb:ZgGg9b;dLlj2:Qqt3Gf;dXdZV:a7QTqd;dowIGb:ebZ3mb,ebZ3mb;dtl0hd:lLQWFe;eBAeSb:Ck63tb;eBZ5Nd:audvde;eHDfl:ofjVkb;eJKchc:ATg1be;eO3lse:UefOmb;euOXY:OZjbQ;g8nkx:U4MzKc;gTtPhb:RvPnwb;gaub4:TN6bMe;gbfHR:qZtzib;gtVSi:ekUOYd;h3MYod:ws9Tlc;hK67qb:QWEO5b;hVic1b:Kqhykb;heHB1:sFczq;hjRo6e:F62sG;hlqGX:FWz1ic;hsLsYc:Vl118;hwoVHd:zw4U8c;iFQyKf:QIhFr;jJj2G:kF2o2b;k1O0rf:pnOULd;k2Qxcb:XY51pe;kbAm9d:MkHyGd;lOO0Vd:OTA3Ae;lbfkyf:MqGdUd;liAz7d:kF2o2b;mMVOGb:qDM7K;mWzs9c:fz5ukf;mtKMCc:ZG5Tfe;nBZnZe:CvErjb;nE6OJf:Fi4rsc;nEBWNb:MxKX9d;nJw4Gd:dPFZH;nrDcw:SuEoDe;oGtAuc:sOXFj;oUlnpc:RagDlc;oiBhre:OuMkRd;okUaUd:wItadb;osNlFe:eRJvTc;pKJiXd:VCenhc;pNsl2d:j9Yuyc;pXdRYb:JKoKVe;pj82le:ww04Df;qGV2uc:HHi04c;qQEoOc:KUM7Z,d7YSfd;qZx2Fc:j0xrE;qaS3gd:yiLg6e;qafBPd:sgY6Zb;qavrXe:I0C9u;qddgKe:d7YSfd,x4FYXe;rdexKf:FEkKD;rmWaj:PMS6Sd;ropkZ:UT1DG;sTsDMc:H8cOfd,VF9yLb,kHVSUb,xkjGve;sZmdvc:rdGEfc;tH4IIe:Ymry6;teSRSb:BMLai;tosKvd:ZCqP3;trZL0b:qY8PFe;uJfyCe:WJ5gBc;uuQkY:u2V3ud;vEYCNb:FaqsVd;vRlMvf:Iw9Xo;vfVwPd:lcrkwe;w3bZCb:ZPGaIb;w9w86d:XwhUEb,dt4g2b,gKD90c,lWVZVe;wFpbG:JbGbBc;wQlYve:aLUfP;wR5FRb:O1Gjze,TtcOte;wV5Pjc:L8KGxe;wxAT5b:tHKmqf;x9N9ie:KH4Qof;xBbsrc:NEW1Qc;xpaRob:AVqZ9b;yiL5Ab:MT0ZBd;ysNiMc:CpIBjd;yxTchf:KUM7Z;z97YGf:oug9te;zaIgPb:Sl0pxd/m=cdos,hsm,jsa,mb4ZUb,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl,YV5bee,d,csi?cb=121509378",
+        "date_collected": "Fri, 20 Nov 2026 00:29:09 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.gstatic.com/og/_/js/k=og.asy.en_US.ZVAFwZQ0iIs.2019.O/rt=j/m=_ac,_awd,ada,lldp,qads,abld/exm=/d=1/ed=1/rs=AA2YrTt2KH-gaFRxm7nSeyfdPmRkuvCWQw",
+        "date_collected": "Fri, 20 Nov 2026 00:29:09 GMT",
+        "thirdparty": true
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/googlesans/v29/4UaGrENHsxJlGDuGo1OIlL3Owp4.woff2",
+        "date_collected": "Fri, 20 Nov 2026 00:29:09 GMT",
+        "thirdparty": true
+      },
+      {
+        "url": "https://www.google.com/async/hpba?yv=3&cs=0&ei=VZT_avmjH-3Ap84P64DA2Ak&async=_basejs:/xjs/_/js/k%3Dxjs.hd.en.z1blPamF250.2023.O/am%3DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICACAAAAEAAAAAAAAAAAAAAAQAAQAAAAAAAAAAAAAAAAAAAAAAAAECAAACABAAAAAAAAAAAAAAAAAQAAABAAAAAAAIABAAAIAAEgAAAAGAAAAAAAAAAAAAAAAAAAgAAQIAAAgAAAAAAAAP8ADDAKAAAAAAAAAAAAAABCAAAAAAAAAAALAAAAAAIBAAAAIAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAUAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAIAAAABQAAAQAAAgAAAAAAAAAAAAAAAAAGAAAAAAAEAAAAAAAAAAAAAAAAAAAAAQAAAQAAEAAIAAAAAAAAAAAABAAAAOAABB5gSE0BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAu5ACAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg5ISF/dg%3D0/br%3D1/rs%3DACT90oFIlopRh0Uv791zXZkUfV6ei8DgWA?cb%3D121509378,_basecss:/xjs/_/ss/k%3Dxjs.hd.wDpcmV2i3LA.L.F4.O/am%3DAAAAAAAAAAACAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAIBAEAAAAAAAABAAAFGDCAAgAAAAAACAcAAAAKAAAAAAAAAABAAAACAAAAAAAAAEACABAAAAAAAAAAAAAAAAAQAAAAAIAAAAAAAAAAAIAAGgAAAAAQAAAAAAAAAIAAAAAAAAgAADIEAAABAAAAAAAAAAAAAMAAAAAAAAAAAAACAABAaAAAAAEAwAAAAAAAAAABAAAAAAAAAAAAAAAAAAAEAkABEAABAAAAAAAEAAAAAAAEQAQggCAAIUELAgEAQAAAAAAIAAYAEAAACAhgIxQAQAAAAAAAAEAAAAAAAAABACAAAIAAAAAAAAAQAIAAAAAIxAASDpCRABAAgEAAAEAGgEAAAAQAAAAAAAABAAAAAAEQCAAAAAAAAAAAAASAJgAAEAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC/br%3D1/rs%3DACT90oGSytmNmar6l4rCiUPojQLcwqHCuw?cb%3D121509378,_basecomb:/xjs/_/js/k%3Dxjs.hd.en.z1blPamF250.2023.O/ck%3Dxjs.hd.wDpcmV2i3LA.L.F4.O/am%3DAAAAAAAAAAACAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAIBAEAAAICACABAAEFGDCAAgAAAAAACAcAAQAKAAAAAAAAAABAAAACAAAAAAECAEACABAAAAAAAAAAAAAAAAAQAAABAIAAAAAIABAAAIAAGgAAAAGQAAAAAAAAAIAAAAAAAAgAATIEAAgBAAAAAAAP8ADDAOAAAAAAAAAAAAACBCBAaAAAAAEAwLAAAAAAIBABAAIAAAAgAAAAAAAAAAAEAkABEAABAAAAAAAEAAAAAAAEQAQggCAAIUELAgEAQAAgAAAIAAYAEAAACAhgIxQAQAAAAAAAAFAAAAAAAAABACAAAIAAAABQAAAQAIAgAAAIxAASDpCRABAAgGAAAEAGgEAAAAQAAAAAAAABAAAAAAEQCAAQAAEAAIAAAASAJgAAEABAAAAOAABB5gSE0BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAu5ACAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg5ISF/d%3D1/ed%3D1/dg%3D0/br%3D1/ujg%3D1/rs%3DACT90oEYUCmksaJMmEYVxD2AoaXt2Kwn1g?cb%3D121509378,_fmt:prog,_id:_VZT_avmjH-3Ap84P64DA2Ak_21&sp_imghp=false&sp_hpep=2&sp_hpte=0&vet=12ahUKEwi5opeppZWYAxVt4MkDHWsAEJsQj-0KegQIABAm..i",
+        "date_collected": "Fri, 20 Nov 2026 00:29:09 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.gstatic.com/og/_/ss/k=og.asy.9o9YSuHUhwE.L.F4.O/m=ll_tdm,adcgm3,ll_fw,abld/excm=/d=1/ed=1/ct=zgms/rs=AA2YrTsyzTmbmwi6BY5fyW3cV91zzYYs_g",
+        "date_collected": "Fri, 20 Nov 2026 00:29:09 GMT",
+        "thirdparty": true
+      },
+      {
+        "url": "https://www.google.com/gen_204?s=webhp&t=aft&atyp=csi&ei=VZT_avmjH-3Ap84P64DA2Ak&rt=wsrt.195,hst.171,prt.278,aft.278&folr=_VZT_avmjH-3Ap84P64DA2Ak_21&imn=6&dtc=164&stc=27&ima=0&imad=0&imac=0&wh=720&nt=navigate&dt=&ts=0&nhp=h3&ant=push&opi=89978449",
+        "date_collected": "Fri, 20 Nov 2026 00:29:09 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://csp.withgoogle.com/csp/gws/other-hp",
+        "date_collected": "Fri, 20 Nov 2026 00:29:09 GMT",
+        "thirdparty": true
+      },
+      {
+        "url": "https://ogads-pa.clients6.google.com/$rpc/google.internal.onegoogle.asyncdata.v1.AsyncDataService/GetAsyncData",
+        "date_collected": "Fri, 20 Nov 2026 00:29:09 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/gen_204?s=async&astyp=hpba&t=all&atyp=csi&ei=VZT_aqq6N7O9ptQPuPCqyQ4&rt=ipf.5,ipfr.137,ttfb.137,st.137,ipfrl.138,acrt.138,aaft.138,art.139,ns.-465,hns.-465&imn=0&ima=0&sv=&cb=112&ucb=102&folid=_VZT_avmjH-3Ap84P64DA2Ak_21",
+        "date_collected": "Fri, 20 Nov 2026 00:29:09 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/xjs/_/js/k=xjs.hd.en.z1blPamF250.2023.O/ck=xjs.hd.wDpcmV2i3LA.L.F4.O/am=AAAAAAAAAAACAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAIBAEAAAICACABAAEFGDCAAgAAAAAACAcAAQAKAAAAAAAAAABAAAACAAAAAAECAEACABAAAAAAAAAAAAAAAAAQAAABAIAAAAAIABAAAIAAGgAAAAGQAAAAAAAAAIAAAAAAAAgAATIEAAgBAAAAAAAP8ADDAOAAAAAAAAAAAAACBCBAaAAAAAEAwLAAAAAAIBABAAIAAAAgAAAAAAAAAAAEAkABEAABAAAAAAAEAAAAAAAEQAQggCAAIUELAgEAQAAgAAAIAAYAEAAACAhgIxQAQAAAAAAAAFAAAAAAAAABACAAAIAAAABQAAAQAIAgAAAIxAASDpCRABAAgGAAAEAGgEAAAAQAAAAAAAABAAAAAAEQCAAQAAEAAIAAAASAJgAAEABAAAAOAABB5gSE0BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAu5ACAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg5ISF/d=0/dg=0/br=1/ujg=1/rs=ACT90oEYUCmksaJMmEYVxD2AoaXt2Kwn1g/m=V8UGT,S37m2c,sy22v,sy22u,UEShwc,sy18w,YHnUBc,sy27v,sy1hr,sy11d,sy11c,sy11b,sy119,sy11a,sy118,sy27u,sy27s,sy27r,sy27q,sy27i,sy1xd,sy1h7,sy1gy,sy1gw,sy1gp,syd5,syd4,sy1ft,sy1g3,sybm,sye7,syc7,sybl,sybk,syk9,syk8,syk1,syjb,syc2,syk7,sy1g2,sy1fu,sy1fv,sy116,sy1fs,sytm,sysg,sync,symb,syto,sytl,Xss4fd,sy11k,sy11j,L1AAkb,sy1fe,YjTCDb,sy1fd,q00IXe,BYwJlf,PGyklf,sy1fl,sy1fj,sy1fi,sy1fh,sy14t,sy121,Fh0l0,sy1o9,sy1oa,pzkXnb,sy1o6,sy12h,sy9w,FRLJrd,sy1oc,sy1od,eBYPP,rPoQob,j4oDHb,VIsItc,O921Td,oSkQOe,DoXgpb,entfIc,dY0tuc,yyRyad,m1ttTd,i2R6yd,GO95Vb,NZ3mjb,sysh,sy1of,sy1oe,sy1gq,n8YO7e,sy1oy,synt,sy1ow,synr,sy1ov,syl1,sy1ou,sy1jp,sy1jo,sy1hv,sy1ht,sy1hu,sy1jq,sy1j2,sy1io,sy1ip,sy1j0,sy1ii,sy1ic,sy1id,sy1ib,sy1hp,sy1ia,sy1i8,sy1i5,sy1i4,sy1i3,sy1i2,sy1i1,sy1hm,sy1hn,sycl,sy1i7,sy1i0,sy1hl,sy1hz,sy1ho,sy1i9,sy1hk,sy1hy,sy1ox,sy1lt,sy1lu,sy1lr,sy1lp,sy1lq,sy1ls,jywEkf,sy24b,jNZDL,U9EYge,KdIHef,sy12s,loL8vb,sy13y,sy13x,sy138,sy132,sy139,sy13t,sy136,sy134,sy133,syhk,sy131,sy13s,sy13p,sy13o,sydv,sydw,sydp,sy13w,syit,syhl,syhj,sya2,sya7,syef,sy13r,sy13u,sy137,sy13d,sy12u,sy13v,sy13m,sy13l,sy13f,sy13k,sy13g,sy13c,sy13b,sy13a,sy12w,sy12i,sy12x,ms4mZb,syzz,B2qlPe,sy18n,NzU6V,sy195,WlNQGd,sy12e,sy12d?cb=121509378&xjs=s3",
+        "date_collected": "Fri, 20 Nov 2026 00:29:10 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/xjs/_/js/k=xjs.hd.en.z1blPamF250.2023.O/ck=xjs.hd.wDpcmV2i3LA.L.F4.O/am=AAAAAAAAAAACAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAIBAEAAAICACABAAEFGDCAAgAAAAAACAcAAQAKAAAAAAAAAABAAAACAAAAAAECAEACABAAAAAAAAAAAAAAAAAQAAABAIAAAAAIABAAAIAAGgAAAAGQAAAAAAAAAIAAAAAAAAgAATIEAAgBAAAAAAAP8ADDAOAAAAAAAAAAAAACBCBAaAAAAAEAwLAAAAAAIBABAAIAAAAgAAAAAAAAAAAEAkABEAABAAAAAAAEAAAAAAAEQAQggCAAIUELAgEAQAAgAAAIAAYAEAAACAhgIxQAQAAAAAAAAFAAAAAAAAABACAAAIAAAABQAAAQAIAgAAAIxAASDpCRABAAgGAAAEAGgEAAAAQAAAAAAAABAAAAAAEQCAAQAAEAAIAAAASAJgAAEABAAAAOAABB5gSE0BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAu5ACAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg5ISF/d=0/dg=0/br=1/ujg=1/rs=ACT90oEYUCmksaJMmEYVxD2AoaXt2Kwn1g/m=DPreE,sy197,sy196,nabPbb,abd,sy4bl,TDFkye?cb=121509378&xjs=s3",
+        "date_collected": "Fri, 20 Nov 2026 00:29:10 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/xjs/_/js/md=2/k=xjs.hd.en.z1blPamF250.2023.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICACAAAAEAAAAAAAAAAAAAAAQAAQAAAAAAAAAAAAAAAAAAAAAAAAECAEACABAAAAAAAAAAAAAAAAAQAAABAAAAAAAIABAAAIAAGgAAAAGAAAAAAAAAAAAAAAAAAAgAAQIAAAgAAAAAAAAP8ADDAKAAAAAAAAAAAAAABCAAAAAAAAAAALAAAAAAIBAAAAIAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAUAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAIAAAABQAAAQAAAgAAAAAAAAAAAAAAAAAGAAAAAGAEAAAAAAAAAAAAAAAAAAAAAQAAAQAAEAAIAAAAAAAAAAAABAAAAOAABB5gSE0BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAu5ACAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg5ISF/rs=ACT90oFtJXUcVOZOYJnycxguWZvsUFot8Q?cb=121509378",
+        "date_collected": "Fri, 20 Nov 2026 00:29:10 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/gen_204?atyp=csi&ei=VZT_avmjH-3Ap84P64DA2Ak&s=webhp&t=all&folr=_VZT_avmjH-3Ap84P64DA2Ak_21&imn=6&dtc=164&stc=27&ima=0&imad=0&imac=0&wh=720&nt=navigate&dt=&ts=0&nhp=h3&ant=push&thdba=0&thdaa=0&ime=0&imeh=0&imeha=0&imehb=0&imea=0&imeb=0&imel=0&imed=0&imeeb=0&imexb=0&scp=0&cb=69299&ucb=231170&lts=69599&adh=&nv=ne.1,feid.2880e93c-1ab3-4923-99f6-9320c721e8bf&hp=&p=bs.true&rt=hst.171,prt.278,aft.278,xjses.536,xjsee.615,xjs.615,fcp.309,lcp.309,wsrt.195,cst.62,dnst.0,rqst.118,rspt.19,sslt.62,rqstt.96,unt.1,cstt.34,dit.489&zx=1795134550055&opi=89978449",
+        "date_collected": "Fri, 20 Nov 2026 00:29:10 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/client_204?atyp=i&biw=1280&bih=720&dpr=1&ei=VZT_avmjH-3Ap84P64DA2Ak&opi=89978449",
+        "date_collected": "Fri, 20 Nov 2026 00:29:10 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/gen_204?atyp=csi&ei=VZT_avmjH-3Ap84P64DA2Ak&s=promo&rt=hpbas.1195&zx=1795134550632&opi=89978449",
+        "date_collected": "Fri, 20 Nov 2026 00:29:10 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/gen_204?atyp=csi&ei=VZT_avmjH-3Ap84P64DA2Ak&s=promo&rt=hpbas.1195,hpbarr.1&zx=1795134550632&opi=89978449",
+        "date_collected": "Fri, 20 Nov 2026 00:29:10 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/complete/s?q&cp=0&client=gws-wiz&xssi=t&gs_pcrt=2&hl=en&authuser=0&psi=VZT_avmjH-3Ap84P64DA2Ak.1795134550142&dpr=1&nolsbt=1",
+        "date_collected": "Fri, 20 Nov 2026 00:29:10 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/async/hpba?opi=89978449&sp_imghp=false&sp_hpte=1&ei=VZT_avmjH-3Ap84P64DA2Ak&sp_hpep=1&stick=&vet=12ahUKEwi5opeppZWYAxVt4MkDHWsAEJsQj-0KegQIABAn..i&yv=3&cs=0&async=_basejs:%2Fxjs%2F_%2Fjs%2Fk%3Dxjs.hd.en.z1blPamF250.2023.O%2Fam%3DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICACAAAAEAAAAAAAAAAAAAAAQAAQAAAAAAAAAAAAAAAAAAAAAAAAECAAACABAAAAAAAAAAAAAAAAAQAAABAAAAAAAIABAAAIAAEgAAAAGAAAAAAAAAAAAAAAAAAAgAAQIAAAgAAAAAAAAP8ADDAKAAAAAAAAAAAAAABCAAAAAAAAAAALAAAAAAIBAAAAIAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAUAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAIAAAABQAAAQAAAgAAAAAAAAAAAAAAAAAGAAAAAAAEAAAAAAAAAAAAAAAAAAAAAQAAAQAAEAAIAAAAAAAAAAAABAAAAOAABB5gSE0BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAu5ACAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg5ISF%2Fdg%3D0%2Fbr%3D1%2Frs%3DACT90oFIlopRh0Uv791zXZkUfV6ei8DgWA%3Fcb%3D121509378,_basecss:%2Fxjs%2F_%2Fss%2Fk%3Dxjs.hd.wDpcmV2i3LA.L.F4.O%2Fam%3DAAAAAAAAAAACAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAIBAEAAAAAAAABAAAFGDCAAgAAAAAACAcAAAAKAAAAAAAAAABAAAACAAAAAAAAAEACABAAAAAAAAAAAAAAAAAQAAAAAIAAAAAAAAAAAIAAGgAAAAAQAAAAAAAAAIAAAAAAAAgAADIEAAABAAAAAAAAAAAAAMAAAAAAAAAAAAACAABAaAAAAAEAwAAAAAAAAAABAAAAAAAAAAAAAAAAAAAEAkABEAABAAAAAAAEAAAAAAAEQAQggCAAIUELAgEAQAAAAAAIAAYAEAAACAhgIxQAQAAAAAAAAEAAAAAAAAABACAAAIAAAAAAAAAQAIAAAAAIxAASDpCRABAAgEAAAEAGgEAAAAQAAAAAAAABAAAAAAEQCAAAAAAAAAAAAASAJgAAEAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC%2Fbr%3D1%2Frs%3DACT90oGSytmNmar6l4rCiUPojQLcwqHCuw%3Fcb%3D121509378,_basecomb:%2Fxjs%2F_%2Fjs%2Fk%3Dxjs.hd.en.z1blPamF250.2023.O%2Fck%3Dxjs.hd.wDpcmV2i3LA.L.F4.O%2Fam%3DAAAAAAAAAAACAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAIBAEAAAICACABAAEFGDCAAgAAAAAACAcAAQAKAAAAAAAAAABAAAACAAAAAAECAEACABAAAAAAAAAAAAAAAAAQAAABAIAAAAAIABAAAIAAGgAAAAGQAAAAAAAAAIAAAAAAAAgAATIEAAgBAAAAAAAP8ADDAOAAAAAAAAAAAAACBCBAaAAAAAEAwLAAAAAAIBABAAIAAAAgAAAAAAAAAAAEAkABEAABAAAAAAAEAAAAAAAEQAQggCAAIUELAgEAQAAgAAAIAAYAEAAACAhgIxQAQAAAAAAAAFAAAAAAAAABACAAAIAAAABQAAAQAIAgAAAIxAASDpCRABAAgGAAAEAGgEAAAAQAAAAAAAABAAAAAAEQCAAQAAEAAIAAAASAJgAAEABAAAAOAABB5gSE0BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAu5ACAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg5ISF%2Fd%3D1%2Fed%3D1%2Fdg%3D0%2Fbr%3D1%2Fujg%3D1%2Frs%3DACT90oEYUCmksaJMmEYVxD2AoaXt2Kwn1g%3Fcb%3D121509378,_fmt:prog,_id:_VZT_avmjH-3Ap84P64DA2Ak_22",
+        "date_collected": "Fri, 20 Nov 2026 00:29:10 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/xjs/_/js/k=xjs.hd.en.z1blPamF250.2023.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICACAAAAEAAAAAAAAAAAAAAAQAAQAAAAAAAAAAAAAAAAAAAAAAAAECAAACABAAAAAAAAAAAAAAAAAQAAABAAAAAAAIABAAAIAAEgAAAAGAAAAAAAAAAAAAAAAAAAgAAQIAAAgAAAAAAAAP8ADDAKAAAAAAAAAAAAAABCAAAAAAAAAAALAAAAAAIBAAAAIAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAUAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAIAAAABQAAAQAAAgAAAAAAAAAAAAAAAAAGAAAAAAAEAAAAAAAAAAAAAAAAAAAAAQAAAQAAEAAIAAAAAAAAAAAABAAAAOAABB5gSE0BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAu5ACAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg5ISF/d=0/dg=0/br=1/rs=ACT90oFIlopRh0Uv791zXZkUfV6ei8DgWA/m=sy23i,sy23j,ifl?cb=121509378&xjs=s4",
+        "date_collected": "Fri, 20 Nov 2026 00:29:10 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/xjs/_/ss/k=xjs.hd.wDpcmV2i3LA.L.F4.O/am=AAAAAAAAAAACAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAIBAEAAAAAAAABAAAFGDCAAgAAAAAACAcAAAAKAAAAAAAAAABAAAACAAAAAAAAAEACABAAAAAAAAAAAAAAAAAQAAAAAIAAAAAAAAAAAIAAGgAAAAAQAAAAAAAAAIAAAAAAAAgAADIEAAABAAAAAAAAAAAAAMAAAAAAAAAAAAACAABAaAAAAAEAwAAAAAAAAAABAAAAAAAAAAAAAAAAAAAEAkABEAABAAAAAAAEAAAAAAAEQAQggCAAIUELAgEAQAAAAAAIAAYAEAAACAhgIxQAQAAAAAAAAEAAAAAAAAABACAAAIAAAAAAAAAQAIAAAAAIxAASDpCRABAAgEAAAEAGgEAAAAQAAAAAAAABAAAAAAEQCAAAAAAAAAAAAASAJgAAEAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC/d=0/br=1/rs=ACT90oGSytmNmar6l4rCiUPojQLcwqHCuw/m=cjaPkb,oG0qee,DR0Rub,L9kArb,sysc,syp2,sys7,sys6,sym1,syla,syl9,aG3wVc,sys5,syv3,syuu,syqe,sy18u?cb=121509378&xjs=s4",
+        "date_collected": "Fri, 20 Nov 2026 00:29:10 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/xjs/_/js/k=xjs.hd.en.z1blPamF250.2023.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICACAAAAEAAAAAAAAAAAAAAAQAAQAAAAAAAAAAAAAAAAAAAAAAAAECAAACABAAAAAAAAAAAAAAAAAQAAABAAAAAAAIABAAAIAAEgAAAAGAAAAAAAAAAAAAAAAAAAgAAQIAAAgAAAAAAAAP8ADDAKAAAAAAAAAAAAAABCAAAAAAAAAAALAAAAAAIBAAAAIAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAUAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAIAAAABQAAAQAAAgAAAAAAAAAAAAAAAAAGAAAAAAAEAAAAAAAAAAAAAAAAAAAAAQAAAQAAEAAIAAAAAAAAAAAABAAAAOAABB5gSE0BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAu5ACAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg5ISF/d=0/dg=0/br=1/rs=ACT90oFIlopRh0Uv791zXZkUfV6ei8DgWA/m=dZKngb,cjaPkb,Gfrscd,sy28h,xaJoqe,oG0qee,sy28r,ezs7ud,sy28q,r64yGf,sy28p,WO2Pcc,sy28o,Chd5te,sy28n,nWejHf,sy28m,bsGLDd,sy28j,xqPpne,DR0Rub,L9kArb,sy28x,sy28v,sy28s,sy28t,sy28w,sy11n,stDGof,sy28i,HLchQe,sy299,sy1rv,sy1gr,sy298,sy297,sy296,sy1cz,sy295,sy294,sy28z,syg4,sy290,sy29h,sy29b,sy9p,sy29i,sy29j,sygz,sy29a,sy29c,sy291,sy29f,sy292,sy293,sy9k,sy28y,sy1no,sy1nn,sy1np,sy1jh,sysc,syp2,sys7,sys6,sy1s9,sy1pg,sy1pd,sy1pc,sy1pb,sy1pa,sy1p8,sy1p7,sy1nb,sym1,syla,syl9,sy1p9,sy1pf,sy1iy,DnWHof,aG3wVc,syhi,aLUfP,wQlYve,sy287,sy288,sy289,sy286,sy28a,sy282,sy22n,sy1q8,sy283,sy280,sy27y,sy1iv,s0j7C,sy19p,sy19m,sy19k,sy19f,syj0,syhp,sy19a,syjr,syjq,syiw,syg2,sycb,syc8,sy19b,SMquOb,sy9e,sy9d,syjh,syje,syjf,syjd,syko,sykn,sykk,sykj,syki,sykd,syke,syjx,syk6,syjv,sybz,sybx,syjw,syju,syby,syc3,sybp,sybs,syjt,syfy,syjl,syjk,syjc,syj5,syj6,syj4,syik,sycp,syhq,syih,syif,syie,syid,sy9t,syi2,syig,syic,sydn,sydt,syce,sycx,sycw,sycv,sycu,sycj,sycs,syct,sydq,sydi,syd1,sydh,sydc,sydb,syd8,sycr,sydg,sycm,sycn,syck,syd2,syd0,syco,sydy,sycf,syca,syc5,syc9,syci,syde,syia,syi4,sye8,syiu,syib,syil,syim,syi9,syfz,syi3,syea,syeb?cb=121509378&xjs=s4",
+        "date_collected": "Fri, 20 Nov 2026 00:29:10 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/xjs/_/js/k=xjs.hd.en.z1blPamF250.2023.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICACAAAAEAAAAAAAAAAAAAAAQAAQAAAAAAAAAAAAAAAAAAAAAAAAECAAACABAAAAAAAAAAAAAAAAAQAAABAAAAAAAIABAAAIAAEgAAAAGAAAAAAAAAAAAAAAAAAAgAAQIAAAgAAAAAAAAP8ADDAKAAAAAAAAAAAAAABCAAAAAAAAAAALAAAAAAIBAAAAIAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAUAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAIAAAABQAAAQAAAgAAAAAAAAAAAAAAAAAGAAAAAAAEAAAAAAAAAAAAAAAAAAAAAQAAAQAAEAAIAAAAAAAAAAAABAAAAOAABB5gSE0BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAu5ACAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg5ISF/d=0/dg=0/br=1/rs=ACT90oFIlopRh0Uv791zXZkUfV6ei8DgWA/m=syec,sye3,sye2,sydk,sye5,sye0,sye6,sych,syd7,sye1,sye9,syi7,syhy,syi0,syhv,syj3,syj2,syj1,syiz,syho,syhm,sy9z,uxMpU,syhd,syex,syey,syew,syev,syag,syad,syac,syab,syaa,sya9,Mlhmy,QGR0gd,PoEs9b,Pjplud,OTA3Ae,sya6,A1yn5d,YIZmRd,sy9o,sy9n,sy9i,lsjVmc,byfTOb,LEikZe,sy9f,kWgXee,ovKuLd,sgY6Zb,qafBPd,ebZ3mb,dowIGb,sy24g,sy19u,syg6,d5EhJe,sy257,fCxEDd,sy24u,sy24v,sy24s,sy256,sy252,sy24w,syg3,syg0,syg5,syc1,syc0,sybq,sybf,syfx,syg1,sy24y,syfv,sy251,sy250,sy1dx,sy24q,sy1d2,sy1d0,sy19x,sy19s,sy19y,sy19i,sy19h,sy19z,T1HOxc,LFk59d,sy24n,sy24l,sy24j,sy24k,sy24i,sys5,zx30Y,sy259,sy258,sy19d,sy111,Wo3n8,ZgGg9b,dIoSBb,sy2h3,sy2h7,sy10v,sy2bd,syv3,syuu,syqe,sy18u,sy2h6,sy2h5,b6knsb,sy2h1,sy2h0,sy25v,sy18s,sygk,syeo,syem,syb9,syeq,JKoKVe,pXdRYb,sy3y3,syba,syb7,syb6,sy9x,O1Gjze,TtcOte,wR5FRb,sygi,sygf,sygc,sygb,sydf,syga,syeh,syg9,syg8,syg7,syfu,syft,syfh,syfr,syf4,syet,syeu,syfq,syd6,syff,syfo,syfe,syfm,syfd,syfl,syez,syf1,syer,syfc,syfj,syfb,syfi,syfa,syf9,syf8,syf6,syf5,syf3,syf2,syfg,syes,syel,syeg,sybe,syaz,sy99,zbML3c,gskBEc,sy23l,s980lf,sy1a7,sy1a6,sy1a4,zGLm3b,sy4ae,sy4ad,sy1d7,sy1d8,DhPYme,sy4ap,sy3vu,sy3vs,sykq,sy3vz?cb=121509378&xjs=s4",
+        "date_collected": "Fri, 20 Nov 2026 00:29:10 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/xjs/_/js/k=xjs.hd.en.z1blPamF250.2023.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICACAAAAEAAAAAAAAAAAAAAAQAAQAAAAAAAAAAAAAAAAAAAAAAAAECAAACABAAAAAAAAAAAAAAAAAQAAABAAAAAAAIABAAAIAAEgAAAAGAAAAAAAAAAAAAAAAAAAgAAQIAAAgAAAAAAAAP8ADDAKAAAAAAAAAAAAAABCAAAAAAAAAAALAAAAAAIBAAAAIAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAUAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAIAAAABQAAAQAAAgAAAAAAAAAAAAAAAAAGAAAAAAAEAAAAAAAAAAAAAAAAAAAAAQAAAQAAEAAIAAAAAAAAAAAABAAAAOAABB5gSE0BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAu5ACAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg5ISF/d=0/dg=0/br=1/rs=ACT90oFIlopRh0Uv791zXZkUfV6ei8DgWA/m=sy3vt,sy3w1,sy3vp,sy4ao,KHourd,sy4bx,sy17g,sy11i,oQfbDd?cb=121509378&xjs=s4",
+        "date_collected": "Fri, 20 Nov 2026 00:29:10 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/gen_204?atyp=i&ct=psnt&cad=&nt=navigate&ei=VZT_avmjH-3Ap84P64DA2Ak&zx=1795134550715&opi=89978449",
+        "date_collected": "Fri, 20 Nov 2026 00:29:10 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/gen_204?atyp=csi&ei=VpT_auLSM8-rw8cP9KKJuQU&s=async&astyp=hpba&ima=0&imn=0&nv=ne.1,feid.8f26e4e8-5cc2-4d24-a8d8-a7aff5ad53ee&hp=&rt=ttfb.102,st.115,bs.27,aaft.116,acrt.118,art.118&zx=1795134550752&opi=89978449",
+        "date_collected": "Fri, 20 Nov 2026 00:29:10 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/gen_204?atyp=i&ei=VZT_avmjH-3Ap84P64DA2Ak&dt19=2&prm23=0&zx=1795134550896&opi=89978449",
+        "date_collected": "Fri, 20 Nov 2026 00:29:10 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/client_204?cs=1&opi=89978449",
+        "date_collected": "Fri, 20 Nov 2026 00:29:10 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/xjs/_/ss/k=xjs.hd.wDpcmV2i3LA.L.F4.O/am=AAAAAAAAAAACAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAIBAEAAAAAAAABAAAFGDCAAgAAAAAACAcAAAAKAAAAAAAAAABAAAACAAAAAAAAAEACABAAAAAAAAAAAAAAAAAQAAAAAIAAAAAAAAAAAIAAGgAAAAAQAAAAAAAAAIAAAAAAAAgAADIEAAABAAAAAAAAAAAAAMAAAAAAAAAAAAACAABAaAAAAAEAwAAAAAAAAAABAAAAAAAAAAAAAAAAAAAEAkABEAABAAAAAAAEAAAAAAAEQAQggCAAIUELAgEAQAAAAAAIAAYAEAAACAhgIxQAQAAAAAAAAEAAAAAAAAABACAAAIAAAAAAAAAQAIAAAAAIxAASDpCRABAAgEAAAEAGgEAAAAQAAAAAAAABAAAAAAEQCAAAAAAAAAAAAASAJgAAEAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC/d=0/br=1/rs=ACT90oGSytmNmar6l4rCiUPojQLcwqHCuw/m=y05UD,sy210,sy21n,sy21j,sy242,sy23v,syqi,syst,sy23w,sy23s,sy23t,sy23q,epYOx?cb=121509378&xjs=s4",
+        "date_collected": "Fri, 20 Nov 2026 00:29:10 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/xjs/_/js/k=xjs.hd.en.z1blPamF250.2023.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICACAAAAEAAAAAAAAAAAAAAAQAAQAAAAAAAAAAAAAAAAAAAAAAAAECAAACABAAAAAAAAAAAAAAAAAQAAABAAAAAAAIABAAAIAAEgAAAAGAAAAAAAAAAAAAAAAAAAgAAQIAAAgAAAAAAAAP8ADDAKAAAAAAAAAAAAAABCAAAAAAAAAAALAAAAAAIBAAAAIAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAUAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAIAAAABQAAAQAAAgAAAAAAAAAAAAAAAAAGAAAAAAAEAAAAAAAAAAAAAAAAAAAAAQAAAQAAEAAIAAAAAAAAAAAABAAAAOAABB5gSE0BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAu5ACAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg5ISF/d=0/dg=0/br=1/rs=ACT90oFIlopRh0Uv791zXZkUfV6ei8DgWA/m=qTnoBf,syaq,sOXFj,oGtAuc,NJ1rfe,syay,q0xTif,y05UD,sy210,sy21n,sy244,sy21j,sy243,sy242,sy23v,syqi,syst,sy23w,sy1s8,sy23y,sy23s,sy23u,sy1s4,sy23t,sy23q,sy21r,sy21s,epYOx?cb=121509378&xjs=s4",
+        "date_collected": "Fri, 20 Nov 2026 00:29:10 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://play.google.com/log?format=json&hasfast=true",
+        "date_collected": "Fri, 20 Nov 2026 00:29:10 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/gen_204?atyp=i&ei=VZT_avmjH-3Ap84P64DA2Ak&vet=12ahUKEwi5opeppZWYAxVt4MkDHWsAEJsQuqMJegQIABA2..s&bl=epdL&s=webhp&lpl=CAUYADAEOAJiCAgBEMCuucoC&zx=1795134550936&opi=89978449",
+        "date_collected": "Fri, 20 Nov 2026 00:29:10 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/xjs/_/ss/k=xjs.hd.wDpcmV2i3LA.L.F4.O/am=AAAAAAAAAAACAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAIBAEAAAAAAAABAAAFGDCAAgAAAAAACAcAAAAKAAAAAAAAAABAAAACAAAAAAAAAEACABAAAAAAAAAAAAAAAAAQAAAAAIAAAAAAAAAAAIAAGgAAAAAQAAAAAAAAAIAAAAAAAAgAADIEAAABAAAAAAAAAAAAAMAAAAAAAAAAAAACAABAaAAAAAEAwAAAAAAAAAABAAAAAAAAAAAAAAAAAAAEAkABEAABAAAAAAAEAAAAAAAEQAQggCAAIUELAgEAQAAAAAAIAAYAEAAACAhgIxQAQAAAAAAAAEAAAAAAAAABACAAAIAAAAAAAAAQAIAAAAAIxAASDpCRABAAgEAAAEAGgEAAAAQAAAAAAAABAAAAAAEQCAAAAAAAAAAAAASAJgAAEAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC/d=0/br=1/rs=ACT90oGSytmNmar6l4rCiUPojQLcwqHCuw/m=sytp,sytr,syts,sy20r,sys0?cb=121509378&xjs=s4",
+        "date_collected": "Fri, 20 Nov 2026 00:29:10 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/xjs/_/js/k=xjs.hd.en.z1blPamF250.2023.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICACAAAAEAAAAAAAAAAAAAAAQAAQAAAAAAAAAAAAAAAAAAAAAAAAECAAACABAAAAAAAAAAAAAAAAAQAAABAAAAAAAIABAAAIAAEgAAAAGAAAAAAAAAAAAAAAAAAAgAAQIAAAgAAAAAAAAP8ADDAKAAAAAAAAAAAAAABCAAAAAAAAAAALAAAAAAIBAAAAIAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAUAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAIAAAABQAAAQAAAgAAAAAAAAAAAAAAAAAGAAAAAAAEAAAAAAAAAAAAAAAAAAAAAQAAAQAAEAAIAAAAAAAAAAAABAAAAOAABB5gSE0BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAu5ACAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg5ISF/d=0/dg=0/br=1/rs=ACT90oFIlopRh0Uv791zXZkUfV6ei8DgWA/m=sytp,a6HOXb,sy27w,nNxkYd,sy28f,sy28e,sy28c,sy1rp,sy1nh,sy1rn,sy1rc,sy1rq,sy11o,sytr,syts,nTNfhe,sy20s,sy20r,SnsTM,sy26j,P10Owf,sy19q,gSZvdb,sy193,sy191,sys0,CnSW2d,sy18y,sy18v,sy18q,sy18p,sy18x,nRwWne,sy190,fXO0xe?cb=121509378&xjs=s4",
+        "date_collected": "Fri, 20 Nov 2026 00:29:10 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.google.com/xjs/_/js/k=xjs.hd.en.z1blPamF250.2023.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICACAAAAEAAAAAAAAAAAAAAAQAAQAAAAAAAAAAAAAAAAAAAAAAAAECAAACABAAAAAAAAAAAAAAAAAQAAABAAAAAAAIABAAAIAAEgAAAAGAAAAAAAAAAAAAAAAAAAgAAQIAAAgAAAAAAAAP8ADDAKAAAAAAAAAAAAAABCAAAAAAAAAAALAAAAAAIBAAAAIAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAUAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAIAAAABQAAAQAAAgAAAAAAAAAAAAAAAAAGAAAAAAAEAAAAAAAAAAAAAAAAAAAAAQAAAQAAEAAIAAAAAAAAAAAABAAAAOAABB5gSE0BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAu5ACAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg5ISF/d=0/dg=0/br=1/rs=ACT90oFIlopRh0Uv791zXZkUfV6ei8DgWA/m=lOO0Vd,P6sQOc?cb=121509378&xjs=s4",
+        "date_collected": "Fri, 20 Nov 2026 00:29:11 GMT",
+        "thirdparty": false
+      }
+    ]
+  },
+  {
+    "website": "https://www.wikipedia.org",
+    "collectedAt": "2026-11-20T00:29:24.830Z",
+    "count": 7,
+    "urls": [
+      {
+        "url": "https://www.wikipedia.org/",
+        "date_collected": "Fri, 20 Nov 2026 00:29:22 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
+        "date_collected": "Fri, 20 Nov 2026 00:29:23 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/sprite-e49fbf32.svg",
+        "date_collected": "Fri, 20 Nov 2026 00:29:23 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.wikipedia.org/portal/wikipedia.org/assets/js/index-be66aee782.js",
+        "date_collected": "Fri, 20 Nov 2026 00:29:23 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.wikipedia.org/portal/wikipedia.org/assets/js/gt-ie9-507b16b6be.js",
+        "date_collected": "Fri, 20 Nov 2026 00:29:23 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.wikipedia.org/static/apple-touch/wikipedia.png",
+        "date_collected": "Fri, 20 Nov 2026 00:29:23 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+        "date_collected": "Fri, 20 Nov 2026 00:29:23 GMT",
+        "thirdparty": false
+      }
+    ]
+  },
+  {
+    "website": "https://www.mozilla.org",
+    "collectedAt": "2026-11-20T00:29:40.410Z",
+    "count": 48,
+    "urls": [
+      {
+        "url": "https://www.mozilla.org/",
+        "date_collected": "Fri, 20 Nov 2026 00:29:36 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/en-US/",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/js/site.c6d6f1fa36a4.js",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/css/protocol-mozilla.eafbcba9bb2a.css",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/css/m24-navigation-and-footer.038277dadfff.css",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/css/m24-root.12db9edf7537.css",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/css/m24-base.c3746f2411e1.css",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/css/m24-home.16ad21b16b30.css",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/js/gtm-snippet.cc9550e6b401.js",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/js/newsletter.116bb838e3d3.js",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/js/sentry.d1770d77b071.js",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/js/lib.2cbb43db3517.js",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/js/fxa.bf74c411a79c.js",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/js/data.a3c1e6e4dfae.js",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/js/m24-ui.54a2e7c5dc9d.js",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/js/m24-animation.ff54678f00e8.js",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/js/consent-banner.20ae7deac179.js",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/img/logos/m24/lockup-black.f2ddba3f0724.svg",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/cms/images/showcase-som-2025.width-1376.png",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://gtm.mozilla.org/script/?id=GTM-MW3R8V&l=dataLayer",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/protocol/fonts/mozilla-text/MozillaText-SemiBold.b126cc23eddf.woff2",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo.eb1324e44442.svg",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/protocol/img/icons/arrow-right.a1e6e0252c06.svg",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/img/logos/thunderbird/logo-thunderbird.121e9c0fed45.svg",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/protocol/img/logos/mozilla/vpn/logo.c648f487bfb8.svg",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/protocol/img/logos/firefox/monitor/logo.d97e5516f9e6.svg",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/protocol/img/logos/firefox/relay/logo.d42a8b52e44c.svg",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/img/logos/0din/logo-0din.50589c5926d2.svg",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/img/logos/tabstack/logo-tabstack.4551b75d8e6b.svg",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/img/icons/m24-small/glasses.8c98d766725a.svg",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/img/icons/m24-small/arrow-right.81a74c691dc2.svg",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/img/icons/social/bluesky/white.8fd522097881.svg",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/protocol/img/icons/social/instagram/white.a7014a6150b3.svg",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/protocol/img/icons/social/linkedin/white.cdc0e910cc1e.svg",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/protocol/img/icons/social/tiktok/white.599403de7ac0.svg",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/protocol/img/icons/social/spotify/white.aa5334e85bae.svg",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/protocol/img/icons/social/youtube/white.4f314c43c69d.svg",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/protocol/img/icons/globe-white.4887e287b713.svg",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/protocol/img/icons/caret-down-white.19fd9f88ce53.svg",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/protocol/fonts/mozilla-text/MozillaText-Regular.71c103450d6d.woff2",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/protocol/fonts/mozilla-headline/MozillaHeadline-SemiBold.bccc6c46c123.woff2",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/protocol/fonts/mozilla-text/MozillaText-Bold.4af7ce689fd6.woff2",
+        "date_collected": "Fri, 20 Nov 2026 00:29:37 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/img/favicons/mozilla/favicon-196x196.e143075360ea.png",
+        "date_collected": "Fri, 20 Nov 2026 00:29:38 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.mozilla.org/media/img/favicons/mozilla/favicon.d0be64e474b1.ico",
+        "date_collected": "Fri, 20 Nov 2026 00:29:38 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://gtm.mozilla.org/script/TzqF5TevzcblkyNUvs2SOKmR75DezBc74bHMhjxOQuAJiMe_d6uci-fROk6zl7so3fDolo2afwmA0N2BJUcX9A-YyOch-JmMtoMqWLmU4S2G8brF3clyWonej9B0SxnzWcmZ5iD3mt7ugS8I7sC2dLvy6JXeyndYgCHG",
+        "date_collected": "Fri, 20 Nov 2026 00:29:38 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MW3R8V&gtg_health=1",
+        "date_collected": "Fri, 20 Nov 2026 00:29:38 GMT",
+        "thirdparty": true
+      },
+      {
+        "url": "https://gtm.mozilla.org/g/collect?v=2&tid=G-MQ7767QQQW&gtm=45he6bh1v877483787za20szb71075029zd71075029xf3xg4&_p=1795134577603&gcs=G101&gcd=13p3tPp2p5l1&npa=1&dma_cps=-&dma=1&ecid=586626415&_eu=AAAAACA&_fplc=0&cid=760153716.1795134579&frm=0&ibt=1&ngs=1&pscdl=denied&rcb=14&sr=1366x768&ul=en-us&ur=&sst.rnd=852464071.1795134579&sst.gch=1&sst.tft=1795134577603&sst.lpc=213620104&sst.navt=n&sst.ude=0&sst.sw_exp=1&_s=1&tag_exp=115938465~115938469~120213116~120385423~120469145~120469153~121246026~121246034&sid=1795134578&sct=1&seg=0&dl=https%3A%2F%2Fwww.mozilla.org%2Fen-US%2F&dt=Mozilla%20-%20Internet%20for%20people%2C%20not%20profit%20(US)&gtb=2&_tu=BA&en=page_view&_fv=1&_nsi=1&_ss=1&gap.sstd=5&gap.gtb=2&ep.data_source=server&tfd=1906&richsstsse",
+        "date_collected": "Fri, 20 Nov 2026 00:29:38 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://gtm.mozilla.org/_/service_worker/6b40/sw_iframe.html?origin=https%3A%2F%2Fwww.mozilla.org&1p=1",
+        "date_collected": "Fri, 20 Nov 2026 00:29:38 GMT",
+        "thirdparty": false
+      }
+    ]
+  },
+  {
+    "website": "https://edition.cnn.com/2026/11/12/sport/what-to-know-for-nfl-week-10",
+    "collectedAt": "2026-11-20T00:29:58.364Z",
+    "count": 58,
+    "urls": [
+      {
+        "url": "https://edition.cnn.com/2026/11/12/sport/what-to-know-for-nfl-week-10",
+        "date_collected": "Fri, 20 Nov 2026 00:29:52 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/fonts/cnn/cnn_sans_display-v1.woff2",
+        "date_collected": "Fri, 20 Nov 2026 00:29:53 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/fonts/cnn/cnn_sans_display-medium-v1.woff2",
+        "date_collected": "Fri, 20 Nov 2026 00:29:53 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/fonts/cnn/cnn_sans_display-bold-v1.woff2",
+        "date_collected": "Fri, 20 Nov 2026 00:29:53 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/fonts/cnn/noto_serif_display-v1.woff2",
+        "date_collected": "Fri, 20 Nov 2026 00:29:53 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://media.cnn.com/api/v1/images/stellar/prod/01-ap26315715032759.JPG?c=original&q=w_860,c_fill/f_avif",
+        "date_collected": "Fri, 20 Nov 2026 00:29:53 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://lightning.cnn.com/launch/7be62238e4c3/97fa00444124/launch-2878c87af5e3.min.js",
+        "date_collected": "Fri, 20 Nov 2026 00:29:53 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/media/sites/js/bundles/cnn-edition-adfuel-41088f557462fde981445fa7055f73bbcdce93fe0dfe99c13ecc14d127167bd6.min.js",
+        "date_collected": "Fri, 20 Nov 2026 00:29:53 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/media/sites/js/bundles/cnn-edition-adfuel-body-f5f29a92b42af7c045a57b85f77667e4f871a89098f7fff2468fd5b7c9fcd250.min.js",
+        "date_collected": "Fri, 20 Nov 2026 00:29:53 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://registry.api.cnn.io/bundles/fave/latest-4.x/js",
+        "date_collected": "Fri, 20 Nov 2026 00:29:53 GMT",
+        "thirdparty": true
+      },
+      {
+        "url": "https://ix.cnn.io/dailygraphics/static/js/pym.v1.min.js",
+        "date_collected": "Fri, 20 Nov 2026 00:29:53 GMT",
+        "thirdparty": true
+      },
+      {
+        "url": "https://media.cnn.com/api/v1/images/stellar/prod/141222170945-andy-scholes-profile.jpg?c=16x9&q=h_270,w_480,c_fill/c_thumb,g_face,w_50,h_50",
+        "date_collected": "Fri, 20 Nov 2026 00:29:53 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/media/sites/cnn/google-play-cnn-app-qr-code.png",
+        "date_collected": "Fri, 20 Nov 2026 00:29:53 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/media/sites/cnn/app-store-cnn-app-qr-code.png",
+        "date_collected": "Fri, 20 Nov 2026 00:29:53 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/public/api/alerts",
+        "date_collected": "Fri, 20 Nov 2026 00:29:54 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/media/sites/cnn/icons/video-icon-header.svg",
+        "date_collected": "Fri, 20 Nov 2026 00:29:54 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/media/sites/cnn/icons/audio-icon-header.svg",
+        "date_collected": "Fri, 20 Nov 2026 00:29:54 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/media/sites/cnn/icons/live-tv-icon-header.svg",
+        "date_collected": "Fri, 20 Nov 2026 00:29:54 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/media/components/breadcrumb/caret-right-icon.svg",
+        "date_collected": "Fri, 20 Nov 2026 00:29:54 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/media/components/breadcrumb/read-time-separator.svg",
+        "date_collected": "Fri, 20 Nov 2026 00:29:54 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/media/sites/cnn/icons/ui-caret-down-elevate.svg",
+        "date_collected": "Fri, 20 Nov 2026 00:29:54 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/media/sites/cnn/icons/ui-chip-add.svg",
+        "date_collected": "Fri, 20 Nov 2026 00:29:54 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/media/sites/cnn/icons/ui-search.svg",
+        "date_collected": "Fri, 20 Nov 2026 00:29:54 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/fonts/cnn/noto_serif-v1.woff2",
+        "date_collected": "Fri, 20 Nov 2026 00:29:54 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/fonts/cnn/noto_serif-bold-v1.woff2",
+        "date_collected": "Fri, 20 Nov 2026 00:29:54 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://js.stripe.com/dahlia/stripe.js",
+        "date_collected": "Fri, 20 Nov 2026 00:29:54 GMT",
+        "thirdparty": true
+      },
+      {
+        "url": "https://edition.cnn.com/wbdotp/scripttemplates/otSDKStub.js",
+        "date_collected": "Fri, 20 Nov 2026 00:29:54 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://www.cnn.com/media/sites/cnn/cnn.svg",
+        "date_collected": "Fri, 20 Nov 2026 00:29:54 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/media/sites/cnn/apple-touch-icon.png",
+        "date_collected": "Fri, 20 Nov 2026 00:29:54 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://accounts.google.com/gsi/client",
+        "date_collected": "Fri, 20 Nov 2026 00:29:54 GMT",
+        "thirdparty": true
+      },
+      {
+        "url": "https://fave.api.cnn.io/v1/runtime-configs?env=prod",
+        "date_collected": "Fri, 20 Nov 2026 00:29:54 GMT",
+        "thirdparty": true
+      },
+      {
+        "url": "https://imasdk.googleapis.com/js/sdkloader/ima3.js",
+        "date_collected": "Fri, 20 Nov 2026 00:29:54 GMT",
+        "thirdparty": true
+      },
+      {
+        "url": "https://lightning.cnn.com/launch/7be62238e4c3/97fa00444124/c27ef2133b49/EXa441fead3cf34bec9f4070ffd5cd2bc6-libraryCode_source.min.js",
+        "date_collected": "Fri, 20 Nov 2026 00:29:54 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/wbdotp/consent/3d9a6f21-8e47-43f8-8d58-d86150f3e92b/3d9a6f21-8e47-43f8-8d58-d86150f3e92b.json",
+        "date_collected": "Fri, 20 Nov 2026 00:29:54 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/media/sites/cnn/icons/gray-caret.svg",
+        "date_collected": "Fri, 20 Nov 2026 00:29:54 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://registry.api.cnn.io/bundles/fave/4.74.0/css",
+        "date_collected": "Fri, 20 Nov 2026 00:29:54 GMT",
+        "thirdparty": true
+      },
+      {
+        "url": "https://registry.api.cnn.io/bundles/fave/4.74.0/vendorHashes",
+        "date_collected": "Fri, 20 Nov 2026 00:29:54 GMT",
+        "thirdparty": true
+      },
+      {
+        "url": "https://edition.cnn.com/wbdotp/scripttemplates/202610.1.0/otBannerSdk.js",
+        "date_collected": "Fri, 20 Nov 2026 00:29:54 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap",
+        "date_collected": "Fri, 20 Nov 2026 00:29:54 GMT",
+        "thirdparty": true
+      },
+      {
+        "url": "https://registry.api.cnn.io/bundles/fave/vendor-ccb335e9/vendor",
+        "date_collected": "Fri, 20 Nov 2026 00:29:54 GMT",
+        "thirdparty": true
+      },
+      {
+        "url": "https://registry.api.cnn.io/bundles/fave/4.74.0/app",
+        "date_collected": "Fri, 20 Nov 2026 00:29:54 GMT",
+        "thirdparty": true
+      },
+      {
+        "url": "https://edition.cnn.com/wbdotp/consent/3d9a6f21-8e47-43f8-8d58-d86150f3e92b/01a15a17-c12e-7a4c-b2c5-f2cc337086d4/en.json",
+        "date_collected": "Fri, 20 Nov 2026 00:29:55 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://cookies-data.onetrust.io/cfw/cmp/v1/session",
+        "date_collected": "Fri, 20 Nov 2026 00:29:55 GMT",
+        "thirdparty": true
+      },
+      {
+        "url": "https://edition.cnn.com/wbdotp/scripttemplates/202610.1.0/assets/otFlat.json",
+        "date_collected": "Fri, 20 Nov 2026 00:29:55 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/wbdotp/scripttemplates/202610.1.0/assets/v2/otPcCenter.json",
+        "date_collected": "Fri, 20 Nov 2026 00:29:55 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/wbdotp/scripttemplates/202610.1.0/assets/otCommonStyles.css",
+        "date_collected": "Fri, 20 Nov 2026 00:29:55 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/wbdotp/consent/3d9a6f21-8e47-43f8-8d58-d86150f3e92b/01a15a17-c12e-7a4c-b2c5-f2cc337086d4/logos/static/ot_guard_logo.svg",
+        "date_collected": "Fri, 20 Nov 2026 00:29:55 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/wbdotp/consent/3d9a6f21-8e47-43f8-8d58-d86150f3e92b/01a15a17-c12e-7a4c-b2c5-f2cc337086d4/logos/9651e1f6-c35b-4377-be7f-5a0c93f0ecb8/fd2c628a-153d-49d4-b7b4-92a834c64b28/507420f5-a79f-4038-baea-bb890032307c/CNN_logo.png",
+        "date_collected": "Fri, 20 Nov 2026 00:29:55 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://edition.cnn.com/wbdotp/consent/3d9a6f21-8e47-43f8-8d58-d86150f3e92b/01a15a17-c12e-7a4c-b2c5-f2cc337086d4/logos/static/powered_by_logo.svg",
+        "date_collected": "Fri, 20 Nov 2026 00:29:55 GMT",
+        "thirdparty": false
+      },
+      {
+        "url": "https://accounts.google.com/gsi/style",
+        "date_collected": "Fri, 20 Nov 2026 00:29:55 GMT",
+        "thirdparty": true
+      },
+      {
+        "url": "https://accounts.google.com/gsi/status?client_id=173709198955-nkj6h0ag8soarm2bpbp9pc0ulp0s5t2b.apps.googleusercontent.com&cas=vcgZfU4E5dA65WKsSx4ejNygBSoV5yWULC0Tl7nyfAE&bs=HfljnJbCkZoAhPQmJeeOpA%2FCYvAhMNxvS9palqCfvRU&has_opted_out_fedcm=false&is_itp=true",
+        "date_collected": "Fri, 20 Nov 2026 00:29:55 GMT",
+        "thirdparty": true
+      },
+      {
+        "url": "https://accounts.google.com/gsi/iframe/select?client_id=173709198955-nkj6h0ag8soarm2bpbp9pc0ulp0s5t2b.apps.googleusercontent.com&ux_mode=popup&ui_mode=card&as=z9r1cGzN13OD4-iXZrzlDof9QJurtoyvqO1a0Zh9waI&bs=HfljnJbCkZoAhPQmJeeOpA%2FCYvAhMNxvS9palqCfvRU&is_itp=true&channel_id=43da002d2e1393fed1fab805a4826d0f850f07fa225165220dd56192241a4310&origin=https%3A%2F%2Fedition.cnn.com&oauth2_auth_url=https%3A%2F%2Faccounts.google.com%2Fo%2Foauth2%2Fv2%2Fauth",
+        "date_collected": "Fri, 20 Nov 2026 00:29:55 GMT",
+        "thirdparty": true
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/googlesans/v62/4UaRrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iq2vgCIhMl07v0x.woff2",
+        "date_collected": "Fri, 20 Nov 2026 00:29:55 GMT",
+        "thirdparty": true
+      },
+      {
+        "url": "https://js.stripe.com/v3/m-outer-0edadf75b42c6ef7240c043f3272f3f9.html",
+        "date_collected": "Fri, 20 Nov 2026 00:29:55 GMT",
+        "thirdparty": true
+      },
+      {
+        "url": "https://js.stripe.com/v3/fingerprinted/js/m-outer-df5ee3b49f88025f22168cdfc5823764.js",
+        "date_collected": "Fri, 20 Nov 2026 00:29:55 GMT",
+        "thirdparty": true
+      },
+      {
+        "url": "https://m.stripe.network/inner.html",
+        "date_collected": "Fri, 20 Nov 2026 00:29:55 GMT",
+        "thirdparty": true
+      },
+      {
+        "url": "https://m.stripe.network/out-4.5.45.js",
+        "date_collected": "Fri, 20 Nov 2026 00:29:56 GMT",
+        "thirdparty": true
+      },
+      {
+        "url": "https://m.stripe.com/6",
+        "date_collected": "Fri, 20 Nov 2026 00:29:56 GMT",
+        "thirdparty": true
+      }
+    ]
+  }
+]
