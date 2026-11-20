@@ -11,6 +11,7 @@
     "collect-nettraffic": "tsx scripts/CollectNetTraffic.ts"
   },
   "devDependencies": {
+    "@types/plotly.js": "^3.0.15",
     "playwright": "^1.65.0",
     "tsx": "^4.23.15",
     "typescript": "~7.0.2",
@@ -20,6 +21,7 @@
     "esbuild@0.28.2": true
   },
   "dependencies": {
+    "plotly.js-dist-min": "^4.3.0",
     "tldts": "^7.4.26"
   }
 }

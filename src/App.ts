@@ -1,8 +1,5 @@
 // Utility Functions
-// Add utility function imports here.
-
-// Types
-import type { Cookie } from "playwright";
+import { renderPlotlyGraph } from './Scripts/DataGraphing';
 
 // Assets
 import AuburnLogo from './Assets/AuburnLogo.svg';
@@ -37,6 +34,8 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
 
     <br>
 
+    <div id="plotlyGraph"></div>
+
     <button id="first_site_button" type="button">First Site</button>
     <button id="second_site_button" type="button">Second Site</button>
     <button id="third_site_button" type="button">Third Site</button>
@@ -44,6 +43,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   </div>
 </section>
 `
+
 
 
 // -- Event Listeners --
@@ -63,6 +63,7 @@ secondButton.addEventListener('click', () => displaySiteCookieData("www.facebook
 thirdButton.addEventListener('click', () => displaySiteCookieData("www.twitter.com"));
 
 
+
 // -- Helper Functions --
 
 /**
@@ -70,5 +71,5 @@ thirdButton.addEventListener('click', () => displaySiteCookieData("www.twitter.c
    * @param _siteURL - The site URL to visit.
    */
 const displaySiteCookieData = async (_siteURL: string): Promise<void> => {
-    // Add stuff here.
+    renderPlotlyGraph("plotlyGraph");
 }

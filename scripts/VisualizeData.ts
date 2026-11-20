@@ -1,13 +1,17 @@
-
 import requests_chromium1 from "../public/data/Requests_run1/request_urls_chromium.json";
 import requests_chromium2 from "../public/data/Requests_run2/request_urls_chromium.json";
 import requests_chromium3 from "../public/data/Requests_run3/request_urls_chromium.json";
+
 // Types
 import type { NetResult, ResultURL } from "./Types";
+
 // Utility
 import { getDomain } from "tldts";
 
-//NEED TO GET PLOTLY IMPORTED
+
+
+
+
 
 
 interface Domain_entry{
