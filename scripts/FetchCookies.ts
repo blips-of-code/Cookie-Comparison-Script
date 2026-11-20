@@ -92,6 +92,8 @@ function convertCookiesToCookieInfos(_cookies: Cookie[]): CookieInfo[] {
         domain: cookie.domain,
         path: cookie.path,
         expires: cookie.expires,
+        date_collected: new Date(Date.now()).toUTCString(),
+        date_expires: new Date(cookie.expires*1000).toUTCString(),
         httpOnly: cookie.httpOnly,
         secure: cookie.secure,
         sameSite: cookie.sameSite,
