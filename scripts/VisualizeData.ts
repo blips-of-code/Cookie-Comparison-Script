@@ -14,7 +14,7 @@ import { mkdir, writeFile } from "node:fs/promises";
 import Plotly from 'plotly.js-dist-min';
 
 // Types
-import type { NetResult, ResultURL } from "./Types";
+import type { NetResult, ResultURL, PieChartData } from "./Types";
 import type { Data, Layout, Config } from 'plotly.js-dist-min';
 
 
@@ -25,6 +25,7 @@ function get_unique_domains(_filecontent: NetResult[], _filename:string): Domain
     const all_unique_domains: Domain_list[] = [];
     console.log(`Site requests for ${_filename}`);
     _filecontent.forEach(element => {
+        console.log(element.website);
         const domain_list: Domain_entry[] = [];
         const site_urls: NetResult = element;
         site_urls.urls.forEach(url => {
@@ -80,7 +81,13 @@ function is_in_domain_list(_domainlist: Domain_entry[], _url:string): boolean{
 
 
 function make_piechart_data(_domain_list:Domain_list[], _viewname: string):void{
-
+    const all_data: Data[] = [];
+    const all_layout: Partial<Layout>[] = [];
+    const output: PieChartData = {
+        data: all_data,
+        layout: all_layout
+    }
+    var rowcount: number = 0;
     _domain_list.forEach(element => {
         const domains_array: string[] = [];
         const counts_array: number[] = [];
@@ -100,21 +107,26 @@ function make_piechart_data(_domain_list:Domain_list[], _viewname: string):void{
         //     values: counts_array,
         //     labels: domains_array,
         // }
-        const data: Data[] = [{
+        const data: Data = {
             type: 'pie',
+            name: element.website,
             values: counts_array,
-            labels: domains_array
-        }]
-        var run = {
-            layout: layout,
-            data: data
+            labels: domains_array,
+            domain: {
+                row: 0,
+                column: rowcount
+            },
         }
+        
+        all_data.push(data);
+        all_layout.push(layout);
+        rowcount++;
+    });
+    
     // Creates the output directory if necessary.
     mkdir("public/data_views", { recursive: true });
     // Writes results to JSON.
-    writeFile(`public/data_views/${_viewname}.json`, JSON.stringify(run, null, 2), "utf-8");
-
-    });
+    writeFile(`public/data_views/${_viewname}.json`, JSON.stringify(output, null, 2), "utf-8");
 }
 
 function list_data(): void{

@@ -47,3 +47,8 @@ export interface Domain_list{
     website: string;
     domains: Domain_entry[];
 }
+
+export interface PieChartData {
+    data: Data[];
+    layout: Partial<Layout>[];
+}
