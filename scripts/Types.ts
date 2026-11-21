@@ -37,3 +37,13 @@ export interface NetResult {
     count: number;
     error?: string;
 }
+
+export interface Domain_entry{
+    domain_name: string;
+    count: number;
+}
+
+export interface Domain_list{
+    website: string;
+    domains: Domain_entry[];
+}

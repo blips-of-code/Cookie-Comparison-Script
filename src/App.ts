@@ -1,5 +1,5 @@
 // Utility Functions
-import { renderPlotlyGraph } from './Scripts/DataGraphing';
+import { renderPlotlyGraph, make_piecharts_chrome, make_piecharts_firefox, make_piecharts_webkit } from './Scripts/DataGraphing';
 
 // Assets
 import AuburnLogo from './Assets/AuburnLogo.svg';
@@ -40,6 +40,10 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
     <button id="second_site_button" type="button">Second Site</button>
     <button id="third_site_button" type="button">Third Site</button>
 
+    <div id="pie1"></div>
+    <div id="pie2"></div>
+    <div id="pie3"></div>
+
   </div>
 </section>
 `
@@ -72,4 +76,13 @@ thirdButton.addEventListener('click', () => displaySiteCookieData("www.twitter.c
    */
 const displaySiteCookieData = async (_siteURL: string): Promise<void> => {
     renderPlotlyGraph("plotlyGraph");
+    if(_siteURL == "www.google.com"){
+      make_piecharts_chrome(["pie1","pie2","pie3"]);
+    }
+    if(_siteURL == "www.facebook.com"){
+      make_piecharts_firefox(["pie1","pie2","pie3"]);
+    }
+    if(_siteURL == "www.twitter.com"){
+      make_piecharts_webkit(["pie1","pie2","pie3"]);
+    }
 }
