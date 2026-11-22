@@ -37,3 +37,19 @@ export interface NetResult {
     count: number;
     error?: string;
 }
+
+export interface Domain_entry{
+    domain_name: string;
+    count: number;
+}
+
+export interface Domain_list{
+    website: string;
+    browser: string;
+    domains: Domain_entry[];
+}
+
+export interface PieChartData {
+    data: Data[];
+    layout: Partial<Layout>[];
+}

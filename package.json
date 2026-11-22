@@ -8,7 +8,8 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "collect-cookies": "tsx scripts/CollectCookies.ts",
-    "collect-nettraffic": "tsx scripts/CollectNetTraffic.ts"
+    "collect-nettraffic": "tsx scripts/CollectNetTraffic.ts",
+    "make-dataviews": "tsx scripts/VisualizeData.ts"
   },
   "devDependencies": {
     "@types/plotly.js": "^3.0.15",
