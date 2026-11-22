@@ -15,6 +15,11 @@ import webkit_run1 from "../../public/data_views/webkit_run1.json";
 import webkit_run2 from "../../public/data_views/webkit_run2.json";
 import webkit_run3 from "../../public/data_views/webkit_run3.json";
 
+import google_runs from "../../public/data_views/websites/Google_all_runs.json";
+import wiki_runs from "../../public/data_views/websites/Wiki_all_runs.json";
+import mozilla_runs from "../../public/data_views/websites/Mozilla_all_runs.json";
+import cnn_runs from "../../public/data_views/websites/Cnn_all_runs.json";
+
 // -- Graph Functions --
 
 interface PieChartData {
@@ -178,6 +183,89 @@ const run1_layout: Partial<Layout> = {
     Plotly.newPlot(_htmlTags[0], data_traces1, run1_layout);
     Plotly.newPlot(_htmlTags[1], data_traces2, run2_layout);
     Plotly.newPlot(_htmlTags[2], data_traces3, run3_layout);
+}
+
+export function make_piechart_website(_htmlTags: string[], _website: string): void {
+    if(_website == "Google"){
+        const runcount:number = 0;
+        //for each run
+        google_runs.forEach(element => {
+            const run_traces: Data[] = [];
+            const run_layouts: Partial<Layout>[] = [];
+            
+            element.data.forEach(data_element => {
+                run_traces.push(data_element as Data);
+            });
+            element.layout.forEach(layout_element => {
+                run_layouts.push(layout_element as Partial<Layout>);
+            });
+            Plotly.newPlot(_htmlTags[runcount], run_traces, run_layouts[runcount]);
+            // element.forEach(element => {
+                
+            // });
+            // run_traces.push(element.data as Data);
+        }); 
+    }
+    else if(_website == "Wikipedia"){
+        const runcount:number = 0;
+        //for each run
+        wiki_runs.forEach(element => {
+            const run_traces: Data[] = [];
+            const run_layouts: Partial<Layout>[] = [];
+            
+            element.data.forEach(data_element => {
+                run_traces.push(data_element as Data);
+            });
+            element.layout.forEach(layout_element => {
+                run_layouts.push(layout_element as Partial<Layout>);
+            });
+            Plotly.newPlot(_htmlTags[runcount], run_traces, run_layouts[runcount]);
+            // element.forEach(element => {
+                
+            // });
+            // run_traces.push(element.data as Data);
+        }); 
+    }
+    else if(_website == "Mozilla"){
+        const runcount:number = 0;
+        //for each run
+        mozilla_runs.forEach(element => {
+            const run_traces: Data[] = [];
+            const run_layouts: Partial<Layout>[] = [];
+            
+            element.data.forEach(data_element => {
+                run_traces.push(data_element as Data);
+            });
+            element.layout.forEach(layout_element => {
+                run_layouts.push(layout_element as Partial<Layout>);
+            });
+            Plotly.newPlot(_htmlTags[runcount], run_traces, run_layouts[runcount]);
+            // element.forEach(element => {
+                
+            // });
+            // run_traces.push(element.data as Data);
+        }); 
+    }
+    else if(_website == "CNN"){
+        const runcount:number = 0;
+        //for each run
+        cnn_runs.forEach(element => {
+            const run_traces: Data[] = [];
+            const run_layouts: Partial<Layout>[] = [];
+            
+            element.data.forEach(data_element => {
+                run_traces.push(data_element as Data);
+            });
+            element.layout.forEach(layout_element => {
+                run_layouts.push(layout_element as Partial<Layout>);
+            });
+            Plotly.newPlot(_htmlTags[runcount], run_traces, run_layouts[runcount]);
+            // element.forEach(element => {
+                
+            // });
+            // run_traces.push(element.data as Data);
+        }); 
+    }
 }
 
 /**

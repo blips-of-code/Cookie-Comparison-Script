@@ -1,0 +1,498 @@
+[
+  {
+    "data": [
+      {
+        "type": "pie",
+        "name": "Chromium",
+        "values": [
+          38,
+          7,
+          4,
+          6,
+          2,
+          1,
+          2
+        ],
+        "labels": [
+          "cnn.com",
+          "cnn.io",
+          "stripe.com",
+          "google.com",
+          "googleapis.com",
+          "onetrust.io",
+          "stripe.network"
+        ],
+        "domain": {
+          "row": 0,
+          "column": 0
+        }
+      },
+      {
+        "type": "pie",
+        "name": "Firefox",
+        "values": [
+          37,
+          7,
+          3,
+          4,
+          2,
+          1,
+          1,
+          2
+        ],
+        "labels": [
+          "cnn.com",
+          "cnn.io",
+          "stripe.com",
+          "google.com",
+          "googleapis.com",
+          "onetrust.io",
+          "gstatic.com",
+          "stripe.network"
+        ],
+        "domain": {
+          "row": 0,
+          "column": 1
+        }
+      },
+      {
+        "type": "pie",
+        "name": "Webkit",
+        "values": [
+          37,
+          7,
+          4,
+          4,
+          2,
+          1,
+          1,
+          2
+        ],
+        "labels": [
+          "cnn.com",
+          "cnn.io",
+          "stripe.com",
+          "google.com",
+          "googleapis.com",
+          "onetrust.io",
+          "gstatic.com",
+          "stripe.network"
+        ],
+        "domain": {
+          "row": 0,
+          "column": 2
+        }
+      }
+    ],
+    "layout": [
+      {
+        "title": {
+          "text": "https://edition.cnn.com/2026/11/12/sport/what-to-know-for-nfl-week-10"
+        },
+        "height": 400,
+        "width": 800,
+        "margin": {
+          "t": 30,
+          "b": 0,
+          "l": 60,
+          "r": 0
+        },
+        "showlegend": false,
+        "grid": {
+          "rows": 1,
+          "columns": 4,
+          "xgap": 0.4,
+          "subplots": [
+            "xy",
+            "x2y",
+            "x3y",
+            "x4y"
+          ],
+          "pattern": "independent"
+        }
+      },
+      {
+        "title": {
+          "text": "https://edition.cnn.com/2026/11/12/sport/what-to-know-for-nfl-week-10"
+        },
+        "height": 400,
+        "width": 800,
+        "margin": {
+          "t": 30,
+          "b": 0,
+          "l": 60,
+          "r": 0
+        },
+        "showlegend": false,
+        "grid": {
+          "rows": 1,
+          "columns": 4,
+          "xgap": 0.4,
+          "subplots": [
+            "xy",
+            "x2y",
+            "x3y",
+            "x4y"
+          ],
+          "pattern": "independent"
+        }
+      },
+      {
+        "title": {
+          "text": "https://edition.cnn.com/2026/11/12/sport/what-to-know-for-nfl-week-10"
+        },
+        "height": 400,
+        "width": 800,
+        "margin": {
+          "t": 30,
+          "b": 0,
+          "l": 60,
+          "r": 0
+        },
+        "showlegend": false,
+        "grid": {
+          "rows": 1,
+          "columns": 4,
+          "xgap": 0.4,
+          "subplots": [
+            "xy",
+            "x2y",
+            "x3y",
+            "x4y"
+          ],
+          "pattern": "independent"
+        }
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "type": "pie",
+        "name": "Chromium",
+        "values": [
+          38,
+          7,
+          4,
+          2,
+          6,
+          1,
+          2
+        ],
+        "labels": [
+          "cnn.com",
+          "cnn.io",
+          "stripe.com",
+          "googleapis.com",
+          "google.com",
+          "onetrust.io",
+          "stripe.network"
+        ],
+        "domain": {
+          "row": 0,
+          "column": 0
+        }
+      },
+      {
+        "type": "pie",
+        "name": "Firefox",
+        "values": [
+          37,
+          7,
+          4,
+          4,
+          2,
+          1,
+          1,
+          2
+        ],
+        "labels": [
+          "cnn.com",
+          "cnn.io",
+          "stripe.com",
+          "google.com",
+          "googleapis.com",
+          "onetrust.io",
+          "gstatic.com",
+          "stripe.network"
+        ],
+        "domain": {
+          "row": 0,
+          "column": 1
+        }
+      },
+      {
+        "type": "pie",
+        "name": "Webkit",
+        "values": [
+          37,
+          7,
+          4,
+          4,
+          2,
+          1,
+          1,
+          2
+        ],
+        "labels": [
+          "cnn.com",
+          "cnn.io",
+          "stripe.com",
+          "google.com",
+          "googleapis.com",
+          "onetrust.io",
+          "gstatic.com",
+          "stripe.network"
+        ],
+        "domain": {
+          "row": 0,
+          "column": 2
+        }
+      }
+    ],
+    "layout": [
+      {
+        "title": {
+          "text": "https://edition.cnn.com/2026/11/12/sport/what-to-know-for-nfl-week-10"
+        },
+        "height": 400,
+        "width": 800,
+        "margin": {
+          "t": 30,
+          "b": 0,
+          "l": 60,
+          "r": 0
+        },
+        "showlegend": false,
+        "grid": {
+          "rows": 1,
+          "columns": 4,
+          "xgap": 0.4,
+          "subplots": [
+            "xy",
+            "x2y",
+            "x3y",
+            "x4y"
+          ],
+          "pattern": "independent"
+        }
+      },
+      {
+        "title": {
+          "text": "https://edition.cnn.com/2026/11/12/sport/what-to-know-for-nfl-week-10"
+        },
+        "height": 400,
+        "width": 800,
+        "margin": {
+          "t": 30,
+          "b": 0,
+          "l": 60,
+          "r": 0
+        },
+        "showlegend": false,
+        "grid": {
+          "rows": 1,
+          "columns": 4,
+          "xgap": 0.4,
+          "subplots": [
+            "xy",
+            "x2y",
+            "x3y",
+            "x4y"
+          ],
+          "pattern": "independent"
+        }
+      },
+      {
+        "title": {
+          "text": "https://edition.cnn.com/2026/11/12/sport/what-to-know-for-nfl-week-10"
+        },
+        "height": 400,
+        "width": 800,
+        "margin": {
+          "t": 30,
+          "b": 0,
+          "l": 60,
+          "r": 0
+        },
+        "showlegend": false,
+        "grid": {
+          "rows": 1,
+          "columns": 4,
+          "xgap": 0.4,
+          "subplots": [
+            "xy",
+            "x2y",
+            "x3y",
+            "x4y"
+          ],
+          "pattern": "independent"
+        }
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "type": "pie",
+        "name": "Chromium",
+        "values": [
+          38,
+          7,
+          1,
+          2,
+          6,
+          1
+        ],
+        "labels": [
+          "cnn.com",
+          "cnn.io",
+          "stripe.com",
+          "googleapis.com",
+          "google.com",
+          "onetrust.io"
+        ],
+        "domain": {
+          "row": 0,
+          "column": 0
+        }
+      },
+      {
+        "type": "pie",
+        "name": "Firefox",
+        "values": [
+          37,
+          7,
+          3,
+          4,
+          2,
+          1,
+          1,
+          2
+        ],
+        "labels": [
+          "cnn.com",
+          "cnn.io",
+          "stripe.com",
+          "google.com",
+          "googleapis.com",
+          "onetrust.io",
+          "gstatic.com",
+          "stripe.network"
+        ],
+        "domain": {
+          "row": 0,
+          "column": 1
+        }
+      },
+      {
+        "type": "pie",
+        "name": "Webkit",
+        "values": [
+          37,
+          7,
+          4,
+          4,
+          2,
+          1,
+          1,
+          2
+        ],
+        "labels": [
+          "cnn.com",
+          "cnn.io",
+          "stripe.com",
+          "google.com",
+          "googleapis.com",
+          "onetrust.io",
+          "gstatic.com",
+          "stripe.network"
+        ],
+        "domain": {
+          "row": 0,
+          "column": 2
+        }
+      }
+    ],
+    "layout": [
+      {
+        "title": {
+          "text": "https://edition.cnn.com/2026/11/12/sport/what-to-know-for-nfl-week-10"
+        },
+        "height": 400,
+        "width": 800,
+        "margin": {
+          "t": 30,
+          "b": 0,
+          "l": 60,
+          "r": 0
+        },
+        "showlegend": false,
+        "grid": {
+          "rows": 1,
+          "columns": 4,
+          "xgap": 0.4,
+          "subplots": [
+            "xy",
+            "x2y",
+            "x3y",
+            "x4y"
+          ],
+          "pattern": "independent"
+        }
+      },
+      {
+        "title": {
+          "text": "https://edition.cnn.com/2026/11/12/sport/what-to-know-for-nfl-week-10"
+        },
+        "height": 400,
+        "width": 800,
+        "margin": {
+          "t": 30,
+          "b": 0,
+          "l": 60,
+          "r": 0
+        },
+        "showlegend": false,
+        "grid": {
+          "rows": 1,
+          "columns": 4,
+          "xgap": 0.4,
+          "subplots": [
+            "xy",
+            "x2y",
+            "x3y",
+            "x4y"
+          ],
+          "pattern": "independent"
+        }
+      },
+      {
+        "title": {
+          "text": "https://edition.cnn.com/2026/11/12/sport/what-to-know-for-nfl-week-10"
+        },
+        "height": 400,
+        "width": 800,
+        "margin": {
+          "t": 30,
+          "b": 0,
+          "l": 60,
+          "r": 0
+        },
+        "showlegend": false,
+        "grid": {
+          "rows": 1,
+          "columns": 4,
+          "xgap": 0.4,
+          "subplots": [
+            "xy",
+            "x2y",
+            "x3y",
+            "x4y"
+          ],
+          "pattern": "independent"
+        }
+      }
+    ]
+  }
+]

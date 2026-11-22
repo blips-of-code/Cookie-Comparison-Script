@@ -45,6 +45,7 @@ export interface Domain_entry{
 
 export interface Domain_list{
     website: string;
+    browser: string;
     domains: Domain_entry[];
 }
 

@@ -1,0 +1,380 @@
+[
+  {
+    "data": [
+      {
+        "type": "pie",
+        "name": "Chromium",
+        "values": [
+          5
+        ],
+        "labels": [
+          "wikipedia.org"
+        ],
+        "domain": {
+          "row": 0,
+          "column": 0
+        }
+      },
+      {
+        "type": "pie",
+        "name": "Firefox",
+        "values": [
+          7
+        ],
+        "labels": [
+          "wikipedia.org"
+        ],
+        "domain": {
+          "row": 0,
+          "column": 1
+        }
+      },
+      {
+        "type": "pie",
+        "name": "Webkit",
+        "values": [
+          7
+        ],
+        "labels": [
+          "wikipedia.org"
+        ],
+        "domain": {
+          "row": 0,
+          "column": 2
+        }
+      }
+    ],
+    "layout": [
+      {
+        "title": {
+          "text": "https://www.wikipedia.org"
+        },
+        "height": 400,
+        "width": 800,
+        "margin": {
+          "t": 30,
+          "b": 0,
+          "l": 60,
+          "r": 0
+        },
+        "showlegend": false,
+        "grid": {
+          "rows": 1,
+          "columns": 4,
+          "xgap": 0.4,
+          "subplots": [
+            "xy",
+            "x2y",
+            "x3y",
+            "x4y"
+          ],
+          "pattern": "independent"
+        }
+      },
+      {
+        "title": {
+          "text": "https://www.wikipedia.org"
+        },
+        "height": 400,
+        "width": 800,
+        "margin": {
+          "t": 30,
+          "b": 0,
+          "l": 60,
+          "r": 0
+        },
+        "showlegend": false,
+        "grid": {
+          "rows": 1,
+          "columns": 4,
+          "xgap": 0.4,
+          "subplots": [
+            "xy",
+            "x2y",
+            "x3y",
+            "x4y"
+          ],
+          "pattern": "independent"
+        }
+      },
+      {
+        "title": {
+          "text": "https://www.wikipedia.org"
+        },
+        "height": 400,
+        "width": 800,
+        "margin": {
+          "t": 30,
+          "b": 0,
+          "l": 60,
+          "r": 0
+        },
+        "showlegend": false,
+        "grid": {
+          "rows": 1,
+          "columns": 4,
+          "xgap": 0.4,
+          "subplots": [
+            "xy",
+            "x2y",
+            "x3y",
+            "x4y"
+          ],
+          "pattern": "independent"
+        }
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "type": "pie",
+        "name": "Chromium",
+        "values": [
+          5
+        ],
+        "labels": [
+          "wikipedia.org"
+        ],
+        "domain": {
+          "row": 0,
+          "column": 0
+        }
+      },
+      {
+        "type": "pie",
+        "name": "Firefox",
+        "values": [
+          7
+        ],
+        "labels": [
+          "wikipedia.org"
+        ],
+        "domain": {
+          "row": 0,
+          "column": 1
+        }
+      },
+      {
+        "type": "pie",
+        "name": "Webkit",
+        "values": [
+          7
+        ],
+        "labels": [
+          "wikipedia.org"
+        ],
+        "domain": {
+          "row": 0,
+          "column": 2
+        }
+      }
+    ],
+    "layout": [
+      {
+        "title": {
+          "text": "https://www.wikipedia.org"
+        },
+        "height": 400,
+        "width": 800,
+        "margin": {
+          "t": 30,
+          "b": 0,
+          "l": 60,
+          "r": 0
+        },
+        "showlegend": false,
+        "grid": {
+          "rows": 1,
+          "columns": 4,
+          "xgap": 0.4,
+          "subplots": [
+            "xy",
+            "x2y",
+            "x3y",
+            "x4y"
+          ],
+          "pattern": "independent"
+        }
+      },
+      {
+        "title": {
+          "text": "https://www.wikipedia.org"
+        },
+        "height": 400,
+        "width": 800,
+        "margin": {
+          "t": 30,
+          "b": 0,
+          "l": 60,
+          "r": 0
+        },
+        "showlegend": false,
+        "grid": {
+          "rows": 1,
+          "columns": 4,
+          "xgap": 0.4,
+          "subplots": [
+            "xy",
+            "x2y",
+            "x3y",
+            "x4y"
+          ],
+          "pattern": "independent"
+        }
+      },
+      {
+        "title": {
+          "text": "https://www.wikipedia.org"
+        },
+        "height": 400,
+        "width": 800,
+        "margin": {
+          "t": 30,
+          "b": 0,
+          "l": 60,
+          "r": 0
+        },
+        "showlegend": false,
+        "grid": {
+          "rows": 1,
+          "columns": 4,
+          "xgap": 0.4,
+          "subplots": [
+            "xy",
+            "x2y",
+            "x3y",
+            "x4y"
+          ],
+          "pattern": "independent"
+        }
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "type": "pie",
+        "name": "Chromium",
+        "values": [
+          5
+        ],
+        "labels": [
+          "wikipedia.org"
+        ],
+        "domain": {
+          "row": 0,
+          "column": 0
+        }
+      },
+      {
+        "type": "pie",
+        "name": "Firefox",
+        "values": [
+          7
+        ],
+        "labels": [
+          "wikipedia.org"
+        ],
+        "domain": {
+          "row": 0,
+          "column": 1
+        }
+      },
+      {
+        "type": "pie",
+        "name": "Webkit",
+        "values": [
+          7
+        ],
+        "labels": [
+          "wikipedia.org"
+        ],
+        "domain": {
+          "row": 0,
+          "column": 2
+        }
+      }
+    ],
+    "layout": [
+      {
+        "title": {
+          "text": "https://www.wikipedia.org"
+        },
+        "height": 400,
+        "width": 800,
+        "margin": {
+          "t": 30,
+          "b": 0,
+          "l": 60,
+          "r": 0
+        },
+        "showlegend": false,
+        "grid": {
+          "rows": 1,
+          "columns": 4,
+          "xgap": 0.4,
+          "subplots": [
+            "xy",
+            "x2y",
+            "x3y",
+            "x4y"
+          ],
+          "pattern": "independent"
+        }
+      },
+      {
+        "title": {
+          "text": "https://www.wikipedia.org"
+        },
+        "height": 400,
+        "width": 800,
+        "margin": {
+          "t": 30,
+          "b": 0,
+          "l": 60,
+          "r": 0
+        },
+        "showlegend": false,
+        "grid": {
+          "rows": 1,
+          "columns": 4,
+          "xgap": 0.4,
+          "subplots": [
+            "xy",
+            "x2y",
+            "x3y",
+            "x4y"
+          ],
+          "pattern": "independent"
+        }
+      },
+      {
+        "title": {
+          "text": "https://www.wikipedia.org"
+        },
+        "height": 400,
+        "width": 800,
+        "margin": {
+          "t": 30,
+          "b": 0,
+          "l": 60,
+          "r": 0
+        },
+        "showlegend": false,
+        "grid": {
+          "rows": 1,
+          "columns": 4,
+          "xgap": 0.4,
+          "subplots": [
+            "xy",
+            "x2y",
+            "x3y",
+            "x4y"
+          ],
+          "pattern": "independent"
+        }
+      }
+    ]
+  }
+]
